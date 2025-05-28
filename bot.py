@@ -50,12 +50,14 @@ def handle_answer(update: Update, context: CallbackContext):
     correct_answer = q["answer"]
 
     if user_answer == correct_answer:
+    if user_answer == correct_answer:
         state["correct"] += 1
         update.message.reply_text("Nice! Keep it up 💯")
     else:
         state["incorrect"] += 1
-        update.message.reply_text(f"Incorrect 😕 why did you select '{user_answer}'?
-Correct answer: {correct_answer}")
+        update.message.reply_text(
+            f"Incorrect 😕 why did you select '{user_answer}'?\nCorrect answer: {correct_answer}"
+    )
 
     state["index"] += 1
     send_question(update, context)
