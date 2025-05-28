@@ -1,609 +1,602 @@
 [
     {
-        "question": "Which observation confirms a chemical change in the reaction: ZnCO\u2083 \u2192 ZnO + CO\u2082?",
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
         "options": [
-            "Formation of precipitate",
-            "Change in temperature",
+            "Change in state",
             "Evolution of gas",
-            "All of the above"
+            "Change in shape",
+            "Change in temperature"
         ],
-        "answer": "All of the above"
+        "answer": "Change in shape"
     },
     {
-        "question": "Identify the reaction type in the equation: 2Na + Cl\u2082 \u2192 2NaCl",
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
         "options": [
-            "Combination",
+            "Change in state",
+            "Evolution of gas",
+            "Change in shape",
+            "Change in temperature"
+        ],
+        "answer": "Change in shape"
+    },
+    {
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
+        "options": [
+            "Change in state",
+            "Evolution of gas",
+            "Change in shape",
+            "Change in temperature"
+        ],
+        "answer": "Change in shape"
+    },
+    {
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
+        "options": [
+            "Change in state",
+            "Evolution of gas",
+            "Change in shape",
+            "Change in temperature"
+        ],
+        "answer": "Change in shape"
+    },
+    {
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
+        "options": [
+            "Change in state",
+            "Evolution of gas",
+            "Change in shape",
+            "Change in temperature"
+        ],
+        "answer": "Change in shape"
+    },
+    {
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
+        "options": [
+            "Change in state",
+            "Evolution of gas",
+            "Change in shape",
+            "Change in temperature"
+        ],
+        "answer": "Change in shape"
+    },
+    {
+        "question": "Which compound is used in black and white photography and decomposes in sunlight?",
+        "options": [
+            "AgCl",
+            "NaCl",
+            "KCl",
+            "CaCl\u2082"
+        ],
+        "answer": "AgCl"
+    },
+    {
+        "question": "In the reaction: 2Fe + 3Cl\u2082 \u2192 2FeCl\u2083, which substance is oxidized?",
+        "options": [
+            "Fe",
+            "Cl\u2082",
+            "FeCl\u2083",
+            "None"
+        ],
+        "answer": "Fe"
+    },
+    {
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
+        "options": [
+            "Change in state",
+            "Evolution of gas",
+            "Change in shape",
+            "Change in temperature"
+        ],
+        "answer": "Change in shape"
+    },
+    {
+        "question": "Which of the following substances will not show a chemical reaction with dilute HCl?",
+        "options": [
+            "Zn",
+            "Al",
+            "Cu",
+            "Fe"
+        ],
+        "answer": "Cu"
+    },
+    {
+        "question": "In the reaction: 2Fe + 3Cl\u2082 \u2192 2FeCl\u2083, which substance is oxidized?",
+        "options": [
+            "Fe",
+            "Cl\u2082",
+            "FeCl\u2083",
+            "None"
+        ],
+        "answer": "Fe"
+    },
+    {
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
+        "options": [
+            "Change in state",
+            "Evolution of gas",
+            "Change in shape",
+            "Change in temperature"
+        ],
+        "answer": "Change in shape"
+    },
+    {
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
+        "options": [
+            "Change in state",
+            "Evolution of gas",
+            "Change in shape",
+            "Change in temperature"
+        ],
+        "answer": "Change in shape"
+    },
+    {
+        "question": "In a double displacement reaction, what is generally formed?",
+        "options": [
+            "A single product",
+            "A gas only",
+            "A precipitate",
+            "A salt and hydrogen gas"
+        ],
+        "answer": "A precipitate"
+    },
+    {
+        "question": "Which of the following gases is evolved when zinc reacts with dilute hydrochloric acid?",
+        "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Nitrogen",
+            "Carbon dioxide"
+        ],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
+        "options": [
+            "Change in state",
+            "Evolution of gas",
+            "Change in shape",
+            "Change in temperature"
+        ],
+        "answer": "Change in shape"
+    },
+    {
+        "question": "Which of the following reactions is an example of a redox reaction?",
+        "options": [
+            "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+            "HCl + NaOH \u2192 NaCl + H\u2082O",
+            "CaCO\u2083 \u2192 CaO + CO\u2082",
+            "AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083"
+        ],
+        "answer": "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu"
+    },
+    {
+        "question": "What is the correct balanced equation for the reaction between aluminum and hydrochloric acid?",
+        "options": [
+            "Al + HCl \u2192 AlCl + H\u2082",
+            "2Al + 6HCl \u2192 2AlCl\u2083 + 3H\u2082",
+            "Al + 3HCl \u2192 AlCl\u2083 + H",
+            "Al + HCl \u2192 AlCl\u2083 + H\u2082"
+        ],
+        "answer": "2Al + 6HCl \u2192 2AlCl\u2083 + 3H\u2082"
+    },
+    {
+        "question": "What is the correct balanced equation for the reaction between aluminum and hydrochloric acid?",
+        "options": [
+            "Al + HCl \u2192 AlCl + H\u2082",
+            "2Al + 6HCl \u2192 2AlCl\u2083 + 3H\u2082",
+            "Al + 3HCl \u2192 AlCl\u2083 + H",
+            "Al + HCl \u2192 AlCl\u2083 + H\u2082"
+        ],
+        "answer": "2Al + 6HCl \u2192 2AlCl\u2083 + 3H\u2082"
+    },
+    {
+        "question": "Which reaction represents thermal decomposition?",
+        "options": [
+            "2Pb(NO\u2083)\u2082 \u2192 2PbO + 4NO\u2082 + O\u2082",
+            "NaOH + HCl \u2192 NaCl + H\u2082O",
+            "Fe + CuSO\u2084 \u2192 FeSO\u2084 + Cu",
+            "CaO + CO\u2082 \u2192 CaCO\u2083"
+        ],
+        "answer": "2Pb(NO\u2083)\u2082 \u2192 2PbO + 4NO\u2082 + O\u2082"
+    },
+    {
+        "question": "What is the correct balanced equation for the reaction between aluminum and hydrochloric acid?",
+        "options": [
+            "Al + HCl \u2192 AlCl + H\u2082",
+            "2Al + 6HCl \u2192 2AlCl\u2083 + 3H\u2082",
+            "Al + 3HCl \u2192 AlCl\u2083 + H",
+            "Al + HCl \u2192 AlCl\u2083 + H\u2082"
+        ],
+        "answer": "2Al + 6HCl \u2192 2AlCl\u2083 + 3H\u2082"
+    },
+    {
+        "question": "Which of the following substances will not show a chemical reaction with dilute HCl?",
+        "options": [
+            "Zn",
+            "Al",
+            "Cu",
+            "Fe"
+        ],
+        "answer": "Cu"
+    },
+    {
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
+        "options": [
+            "Change in state",
+            "Evolution of gas",
+            "Change in shape",
+            "Change in temperature"
+        ],
+        "answer": "Change in shape"
+    },
+    {
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
+        "options": [
+            "Change in state",
+            "Evolution of gas",
+            "Change in shape",
+            "Change in temperature"
+        ],
+        "answer": "Change in shape"
+    },
+    {
+        "question": "What is the correct balanced equation for the reaction between aluminum and hydrochloric acid?",
+        "options": [
+            "Al + HCl \u2192 AlCl + H\u2082",
+            "2Al + 6HCl \u2192 2AlCl\u2083 + 3H\u2082",
+            "Al + 3HCl \u2192 AlCl\u2083 + H",
+            "Al + HCl \u2192 AlCl\u2083 + H\u2082"
+        ],
+        "answer": "2Al + 6HCl \u2192 2AlCl\u2083 + 3H\u2082"
+    },
+    {
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
+        "options": [
+            "Change in state",
+            "Evolution of gas",
+            "Change in shape",
+            "Change in temperature"
+        ],
+        "answer": "Change in shape"
+    },
+    {
+        "question": "In the reaction: 2Fe + 3Cl\u2082 \u2192 2FeCl\u2083, which substance is oxidized?",
+        "options": [
+            "Fe",
+            "Cl\u2082",
+            "FeCl\u2083",
+            "None"
+        ],
+        "answer": "Fe"
+    },
+    {
+        "question": "What is the correct balanced equation for the reaction between aluminum and hydrochloric acid?",
+        "options": [
+            "Al + HCl \u2192 AlCl + H\u2082",
+            "2Al + 6HCl \u2192 2AlCl\u2083 + 3H\u2082",
+            "Al + 3HCl \u2192 AlCl\u2083 + H",
+            "Al + HCl \u2192 AlCl\u2083 + H\u2082"
+        ],
+        "answer": "2Al + 6HCl \u2192 2AlCl\u2083 + 3H\u2082"
+    },
+    {
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
+        "options": [
+            "Change in state",
+            "Evolution of gas",
+            "Change in shape",
+            "Change in temperature"
+        ],
+        "answer": "Change in shape"
+    },
+    {
+        "question": "What type of reaction is the following: CaO + H\u2082O \u2192 Ca(OH)\u2082?",
+        "options": [
             "Decomposition",
             "Displacement",
-            "Double Displacement"
+            "Combination",
+            "Redox"
         ],
         "answer": "Combination"
     },
     {
-        "question": "Identify the reaction type in the equation: Na\u2082SO\u2084 + BaCl\u2082 \u2192 BaSO\u2084 + 2NaCl",
+        "question": "Which of the following reactions is an example of a redox reaction?",
         "options": [
-            "Combination",
+            "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+            "HCl + NaOH \u2192 NaCl + H\u2082O",
+            "CaCO\u2083 \u2192 CaO + CO\u2082",
+            "AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083"
+        ],
+        "answer": "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu"
+    },
+    {
+        "question": "Which reaction represents thermal decomposition?",
+        "options": [
+            "2Pb(NO\u2083)\u2082 \u2192 2PbO + 4NO\u2082 + O\u2082",
+            "NaOH + HCl \u2192 NaCl + H\u2082O",
+            "Fe + CuSO\u2084 \u2192 FeSO\u2084 + Cu",
+            "CaO + CO\u2082 \u2192 CaCO\u2083"
+        ],
+        "answer": "2Pb(NO\u2083)\u2082 \u2192 2PbO + 4NO\u2082 + O\u2082"
+    },
+    {
+        "question": "Which of the following gases is evolved when zinc reacts with dilute hydrochloric acid?",
+        "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Nitrogen",
+            "Carbon dioxide"
+        ],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
+        "options": [
+            "Change in state",
+            "Evolution of gas",
+            "Change in shape",
+            "Change in temperature"
+        ],
+        "answer": "Change in shape"
+    },
+    {
+        "question": "What type of reaction is the following: CaO + H\u2082O \u2192 Ca(OH)\u2082?",
+        "options": [
             "Decomposition",
             "Displacement",
-            "Double Displacement"
-        ],
-        "answer": "Double Displacement"
-    },
-    {
-        "question": "Which of the following best describes the reaction: 2Al + Fe\u2082O\u2083 \u2192 2Fe + Al\u2082O\u2083?",
-        "options": [
-            "Redox reaction",
-            "It is an endothermic process",
-            "Only physical changes are observed",
-            "No new substances are formed"
-        ],
-        "answer": "Redox reaction"
-    },
-    {
-        "question": "In which type of reaction does a more reactive element displace a less reactive element from its compound, as seen in Pb(NO\u2083)\u2082 + 2KI \u2192 PbI\u2082 + 2KNO\u2083?",
-        "options": [
-            "Displacement reaction",
-            "Combination reaction",
-            "Precipitation",
-            "Synthesis reaction"
-        ],
-        "answer": "Displacement reaction"
-    },
-    {
-        "question": "What law is verified by the equation: 2KClO\u2083 \u2192 2KCl + 3O\u2082?",
-        "options": [
-            "Law of conservation of mass",
-            "Boyle's law",
-            "Charle's law",
-            "Law of constant proportion"
-        ],
-        "answer": "Law of conservation of mass"
-    },
-    {
-        "question": "What type of chemical change occurs in the reaction: 2Al + Fe\u2082O\u2083 \u2192 2Fe + Al\u2082O\u2083?",
-        "options": [
-            "Irreversible chemical change",
-            "Physical change",
-            "Condensation",
-            "Neutralization"
-        ],
-        "answer": "Irreversible chemical change"
-    },
-    {
-        "question": "In which type of reaction does a more reactive element displace a less reactive element from its compound, as seen in C + O\u2082 \u2192 CO\u2082?",
-        "options": [
-            "Displacement reaction",
-            "Combination reaction",
-            "Precipitation",
-            "Synthesis reaction"
-        ],
-        "answer": "Displacement reaction"
-    },
-    {
-        "question": "What is the role of oxygen in the reaction: HCl + NaOH \u2192 NaCl + H\u2082O?",
-        "options": [
-            "Oxidizing agent",
-            "Reducing agent",
-            "Catalyst",
-            "Inert gas"
-        ],
-        "answer": "Reducing agent"
-    },
-    {
-        "question": "Which observation confirms a chemical change in the reaction: Cu + 2AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + 2Ag?",
-        "options": [
-            "Formation of precipitate",
-            "Change in temperature",
-            "Evolution of gas",
-            "All of the above"
-        ],
-        "answer": "All of the above"
-    },
-    {
-        "question": "In which type of reaction does a more reactive element displace a less reactive element from its compound, as seen in HCl + NaOH \u2192 NaCl + H\u2082O?",
-        "options": [
-            "Displacement reaction",
-            "Combination reaction",
-            "Precipitation",
-            "Synthesis reaction"
-        ],
-        "answer": "Displacement reaction"
-    },
-    {
-        "question": "In which type of reaction does a more reactive element displace a less reactive element from its compound, as seen in 2Na + Cl\u2082 \u2192 2NaCl?",
-        "options": [
-            "Displacement reaction",
-            "Combination reaction",
-            "Precipitation",
-            "Synthesis reaction"
-        ],
-        "answer": "Displacement reaction"
-    },
-    {
-        "question": "What law is verified by the equation: ZnCO\u2083 \u2192 ZnO + CO\u2082?",
-        "options": [
-            "Law of conservation of mass",
-            "Boyle's law",
-            "Charle's law",
-            "Law of constant proportion"
-        ],
-        "answer": "Law of conservation of mass"
-    },
-    {
-        "question": "What is the role of oxygen in the reaction: C + O\u2082 \u2192 CO\u2082?",
-        "options": [
-            "Oxidizing agent",
-            "Reducing agent",
-            "Catalyst",
-            "Inert gas"
-        ],
-        "answer": "Oxidizing agent"
-    },
-    {
-        "question": "What law is verified by the equation: Cu + 2AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + 2Ag?",
-        "options": [
-            "Law of conservation of mass",
-            "Boyle's law",
-            "Charle's law",
-            "Law of constant proportion"
-        ],
-        "answer": "Law of conservation of mass"
-    },
-    {
-        "question": "What type of chemical change occurs in the reaction: Fe + CuSO\u2084 \u2192 FeSO\u2084 + Cu?",
-        "options": [
-            "Irreversible chemical change",
-            "Physical change",
-            "Condensation",
-            "Neutralization"
-        ],
-        "answer": "Irreversible chemical change"
-    },
-    {
-        "question": "Which observation confirms a chemical change in the reaction: Zn + H\u2082SO\u2084 \u2192 ZnSO\u2084 + H\u2082?",
-        "options": [
-            "Formation of precipitate",
-            "Change in temperature",
-            "Evolution of gas",
-            "All of the above"
-        ],
-        "answer": "All of the above"
-    },
-    {
-        "question": "What type of chemical change occurs in the reaction: Cu + 2AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + 2Ag?",
-        "options": [
-            "Irreversible chemical change",
-            "Physical change",
-            "Condensation",
-            "Neutralization"
-        ],
-        "answer": "Irreversible chemical change"
-    },
-    {
-        "question": "Identify the reaction type in the equation: Fe + CuSO\u2084 \u2192 FeSO\u2084 + Cu",
-        "options": [
             "Combination",
-            "Decomposition",
-            "Displacement",
-            "Double Displacement"
+            "Redox"
         ],
-        "answer": "Displacement"
+        "answer": "Combination"
     },
     {
-        "question": "In which type of reaction does a more reactive element displace a less reactive element from its compound, as seen in CaCO\u2083 \u2192 CaO + CO\u2082?",
+        "question": "What is the correct balanced equation for the reaction between aluminum and hydrochloric acid?",
         "options": [
-            "Displacement reaction",
-            "Combination reaction",
-            "Precipitation",
-            "Synthesis reaction"
+            "Al + HCl \u2192 AlCl + H\u2082",
+            "2Al + 6HCl \u2192 2AlCl\u2083 + 3H\u2082",
+            "Al + 3HCl \u2192 AlCl\u2083 + H",
+            "Al + HCl \u2192 AlCl\u2083 + H\u2082"
         ],
-        "answer": "Displacement reaction"
+        "answer": "2Al + 6HCl \u2192 2AlCl\u2083 + 3H\u2082"
     },
     {
-        "question": "What is the role of oxygen in the reaction: Cu + 2AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + 2Ag?",
+        "question": "Which of the following reactions is an example of a redox reaction?",
         "options": [
-            "Oxidizing agent",
-            "Reducing agent",
-            "Catalyst",
-            "Inert gas"
+            "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+            "HCl + NaOH \u2192 NaCl + H\u2082O",
+            "CaCO\u2083 \u2192 CaO + CO\u2082",
+            "AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083"
         ],
-        "answer": "Reducing agent"
+        "answer": "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu"
     },
     {
-        "question": "Identify the reaction type in the equation: AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083",
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
         "options": [
-            "Combination",
-            "Decomposition",
-            "Displacement",
-            "Double Displacement"
-        ],
-        "answer": "Double Displacement"
-    },
-    {
-        "question": "What type of chemical change occurs in the reaction: HCl + NaOH \u2192 NaCl + H\u2082O?",
-        "options": [
-            "Irreversible chemical change",
-            "Physical change",
-            "Condensation",
-            "Neutralization"
-        ],
-        "answer": "Irreversible chemical change"
-    },
-    {
-        "question": "Which product is formed in the reaction: 2Fe + 3Cl\u2082 \u2192 2FeCl\u2083?",
-        "options": [
-            "KCl",
-            "O\u2082",
-            "H\u2082",
-            "CaCO\u2083"
-        ],
-        "answer": "H\u2082"
-    },
-    {
-        "question": "What type of chemical change occurs in the reaction: 2KClO\u2083 \u2192 2KCl + 3O\u2082?",
-        "options": [
-            "Irreversible chemical change",
-            "Physical change",
-            "Condensation",
-            "Neutralization"
-        ],
-        "answer": "Irreversible chemical change"
-    },
-    {
-        "question": "What law is verified by the equation: AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083?",
-        "options": [
-            "Law of conservation of mass",
-            "Boyle's law",
-            "Charle's law",
-            "Law of constant proportion"
-        ],
-        "answer": "Law of conservation of mass"
-    },
-    {
-        "question": "Which observation confirms a chemical change in the reaction: CH\u2084 + 2O\u2082 \u2192 CO\u2082 + 2H\u2082O?",
-        "options": [
-            "Formation of precipitate",
-            "Change in temperature",
+            "Change in state",
             "Evolution of gas",
-            "All of the above"
+            "Change in shape",
+            "Change in temperature"
         ],
-        "answer": "All of the above"
+        "answer": "Change in shape"
     },
     {
-        "question": "Which observation confirms a chemical change in the reaction: HCl + NaOH \u2192 NaCl + H\u2082O?",
+        "question": "In the reaction: 2Fe + 3Cl\u2082 \u2192 2FeCl\u2083, which substance is oxidized?",
         "options": [
-            "Formation of precipitate",
-            "Change in temperature",
+            "Fe",
+            "Cl\u2082",
+            "FeCl\u2083",
+            "None"
+        ],
+        "answer": "Fe"
+    },
+    {
+        "question": "What is the correct balanced equation for the reaction between aluminum and hydrochloric acid?",
+        "options": [
+            "Al + HCl \u2192 AlCl + H\u2082",
+            "2Al + 6HCl \u2192 2AlCl\u2083 + 3H\u2082",
+            "Al + 3HCl \u2192 AlCl\u2083 + H",
+            "Al + HCl \u2192 AlCl\u2083 + H\u2082"
+        ],
+        "answer": "2Al + 6HCl \u2192 2AlCl\u2083 + 3H\u2082"
+    },
+    {
+        "question": "Which of the following reactions is an example of a redox reaction?",
+        "options": [
+            "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+            "HCl + NaOH \u2192 NaCl + H\u2082O",
+            "CaCO\u2083 \u2192 CaO + CO\u2082",
+            "AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083"
+        ],
+        "answer": "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu"
+    },
+    {
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
+        "options": [
+            "Change in state",
             "Evolution of gas",
-            "All of the above"
+            "Change in shape",
+            "Change in temperature"
         ],
-        "answer": "All of the above"
+        "answer": "Change in shape"
     },
     {
-        "question": "In which type of reaction does a more reactive element displace a less reactive element from its compound, as seen in CaO + H\u2082O \u2192 Ca(OH)\u2082?",
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
         "options": [
-            "Displacement reaction",
-            "Combination reaction",
-            "Precipitation",
-            "Synthesis reaction"
-        ],
-        "answer": "Displacement reaction"
-    },
-    {
-        "question": "What is the role of oxygen in the reaction: CaCO\u2083 \u2192 CaO + CO\u2082?",
-        "options": [
-            "Oxidizing agent",
-            "Reducing agent",
-            "Catalyst",
-            "Inert gas"
-        ],
-        "answer": "Oxidizing agent"
-    },
-    {
-        "question": "Which product is formed in the reaction: Cu + 2AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + 2Ag?",
-        "options": [
-            "KCl",
-            "O\u2082",
-            "H\u2082",
-            "CaCO\u2083"
-        ],
-        "answer": "H\u2082"
-    },
-    {
-        "question": "Which product is formed in the reaction: CaO + H\u2082O \u2192 Ca(OH)\u2082?",
-        "options": [
-            "KCl",
-            "O\u2082",
-            "H\u2082",
-            "CaCO\u2083"
-        ],
-        "answer": "H\u2082"
-    },
-    {
-        "question": "Identify the reaction type in the equation: Zn + H\u2082SO\u2084 \u2192 ZnSO\u2084 + H\u2082",
-        "options": [
-            "Combination",
-            "Decomposition",
-            "Displacement",
-            "Double Displacement"
-        ],
-        "answer": "Displacement"
-    },
-    {
-        "question": "Which product is formed in the reaction: CaCO\u2083 \u2192 CaO + CO\u2082?",
-        "options": [
-            "KCl",
-            "O\u2082",
-            "H\u2082",
-            "CaCO\u2083"
-        ],
-        "answer": "O\u2082"
-    },
-    {
-        "question": "What law is verified by the equation: Mg + 2HCl \u2192 MgCl\u2082 + H\u2082?",
-        "options": [
-            "Law of conservation of mass",
-            "Boyle's law",
-            "Charle's law",
-            "Law of constant proportion"
-        ],
-        "answer": "Law of conservation of mass"
-    },
-    {
-        "question": "Which product is formed in the reaction: Na + H\u2082O \u2192 NaOH + H\u2082?",
-        "options": [
-            "KCl",
-            "O\u2082",
-            "H\u2082",
-            "CaCO\u2083"
-        ],
-        "answer": "H\u2082"
-    },
-    {
-        "question": "What law is verified by the equation: 2Na + Cl\u2082 \u2192 2NaCl?",
-        "options": [
-            "Law of conservation of mass",
-            "Boyle's law",
-            "Charle's law",
-            "Law of constant proportion"
-        ],
-        "answer": "Law of conservation of mass"
-    },
-    {
-        "question": "Which observation confirms a chemical change in the reaction: H\u2082 + Cl\u2082 \u2192 2HCl?",
-        "options": [
-            "Formation of precipitate",
-            "Change in temperature",
+            "Change in state",
             "Evolution of gas",
-            "All of the above"
+            "Change in shape",
+            "Change in temperature"
         ],
-        "answer": "All of the above"
+        "answer": "Change in shape"
     },
     {
-        "question": "What type of chemical change occurs in the reaction: Na\u2082SO\u2084 + BaCl\u2082 \u2192 BaSO\u2084 + 2NaCl?",
+        "question": "What is the correct balanced equation for the reaction between aluminum and hydrochloric acid?",
         "options": [
-            "Irreversible chemical change",
-            "Physical change",
-            "Condensation",
-            "Neutralization"
+            "Al + HCl \u2192 AlCl + H\u2082",
+            "2Al + 6HCl \u2192 2AlCl\u2083 + 3H\u2082",
+            "Al + 3HCl \u2192 AlCl\u2083 + H",
+            "Al + HCl \u2192 AlCl\u2083 + H\u2082"
         ],
-        "answer": "Irreversible chemical change"
+        "answer": "2Al + 6HCl \u2192 2AlCl\u2083 + 3H\u2082"
     },
     {
-        "question": "Which product is formed in the reaction: Mg + 2HCl \u2192 MgCl\u2082 + H\u2082?",
+        "question": "In the reaction: 2Fe + 3Cl\u2082 \u2192 2FeCl\u2083, which substance is oxidized?",
         "options": [
-            "KCl",
-            "O\u2082",
-            "H\u2082",
-            "CaCO\u2083"
+            "Fe",
+            "Cl\u2082",
+            "FeCl\u2083",
+            "None"
         ],
-        "answer": "H\u2082"
+        "answer": "Fe"
     },
     {
-        "question": "In which type of reaction does a more reactive element displace a less reactive element from its compound, as seen in Na\u2082SO\u2084 + BaCl\u2082 \u2192 BaSO\u2084 + 2NaCl?",
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
         "options": [
-            "Displacement reaction",
-            "Combination reaction",
-            "Precipitation",
-            "Synthesis reaction"
-        ],
-        "answer": "Displacement reaction"
-    },
-    {
-        "question": "What is the role of oxygen in the reaction: Mg + 2HCl \u2192 MgCl\u2082 + H\u2082?",
-        "options": [
-            "Oxidizing agent",
-            "Reducing agent",
-            "Catalyst",
-            "Inert gas"
-        ],
-        "answer": "Reducing agent"
-    },
-    {
-        "question": "What is the role of oxygen in the reaction: 2KClO\u2083 \u2192 2KCl + 3O\u2082?",
-        "options": [
-            "Oxidizing agent",
-            "Reducing agent",
-            "Catalyst",
-            "Inert gas"
-        ],
-        "answer": "Oxidizing agent"
-    },
-    {
-        "question": "Which observation confirms a chemical change in the reaction: Fe + CuSO\u2084 \u2192 FeSO\u2084 + Cu?",
-        "options": [
-            "Formation of precipitate",
-            "Change in temperature",
+            "Change in state",
             "Evolution of gas",
-            "All of the above"
+            "Change in shape",
+            "Change in temperature"
         ],
-        "answer": "All of the above"
+        "answer": "Change in shape"
     },
     {
-        "question": "Which observation confirms a chemical change in the reaction: AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083?",
+        "question": "Which reaction represents thermal decomposition?",
         "options": [
-            "Formation of precipitate",
-            "Change in temperature",
+            "2Pb(NO\u2083)\u2082 \u2192 2PbO + 4NO\u2082 + O\u2082",
+            "NaOH + HCl \u2192 NaCl + H\u2082O",
+            "Fe + CuSO\u2084 \u2192 FeSO\u2084 + Cu",
+            "CaO + CO\u2082 \u2192 CaCO\u2083"
+        ],
+        "answer": "2Pb(NO\u2083)\u2082 \u2192 2PbO + 4NO\u2082 + O\u2082"
+    },
+    {
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
+        "options": [
+            "Change in state",
             "Evolution of gas",
-            "All of the above"
+            "Change in shape",
+            "Change in temperature"
         ],
-        "answer": "All of the above"
+        "answer": "Change in shape"
     },
     {
-        "question": "What law is verified by the equation: CaCO\u2083 \u2192 CaO + CO\u2082?",
+        "question": "Which of the following substances will not show a chemical reaction with dilute HCl?",
         "options": [
-            "Law of conservation of mass",
-            "Boyle's law",
-            "Charle's law",
-            "Law of constant proportion"
+            "Zn",
+            "Al",
+            "Cu",
+            "Fe"
         ],
-        "answer": "Law of conservation of mass"
+        "answer": "Cu"
     },
     {
-        "question": "Identify the reaction type in the equation: CaCO\u2083 \u2192 CaO + CO\u2082",
+        "question": "Which of the following reactions is an example of a redox reaction?",
         "options": [
-            "Combination",
-            "Decomposition",
-            "Displacement",
-            "Double Displacement"
+            "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+            "HCl + NaOH \u2192 NaCl + H\u2082O",
+            "CaCO\u2083 \u2192 CaO + CO\u2082",
+            "AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083"
         ],
-        "answer": "Decomposition"
+        "answer": "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu"
     },
     {
-        "question": "Which of the following best describes the reaction: CaCO\u2083 \u2192 CaO + CO\u2082?",
+        "question": "Which reaction represents thermal decomposition?",
         "options": [
-            "Decomposition reaction",
-            "It is an endothermic process",
-            "Only physical changes are observed",
-            "No new substances are formed"
+            "2Pb(NO\u2083)\u2082 \u2192 2PbO + 4NO\u2082 + O\u2082",
+            "NaOH + HCl \u2192 NaCl + H\u2082O",
+            "Fe + CuSO\u2084 \u2192 FeSO\u2084 + Cu",
+            "CaO + CO\u2082 \u2192 CaCO\u2083"
         ],
-        "answer": "Decomposition reaction"
+        "answer": "2Pb(NO\u2083)\u2082 \u2192 2PbO + 4NO\u2082 + O\u2082"
     },
     {
-        "question": "Which observation confirms a chemical change in the reaction: 2Na + Cl\u2082 \u2192 2NaCl?",
+        "question": "In the reaction: 2Fe + 3Cl\u2082 \u2192 2FeCl\u2083, which substance is oxidized?",
         "options": [
-            "Formation of precipitate",
-            "Change in temperature",
+            "Fe",
+            "Cl\u2082",
+            "FeCl\u2083",
+            "None"
+        ],
+        "answer": "Fe"
+    },
+    {
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
+        "options": [
+            "Change in state",
             "Evolution of gas",
-            "All of the above"
+            "Change in shape",
+            "Change in temperature"
         ],
-        "answer": "All of the above"
+        "answer": "Change in shape"
     },
     {
-        "question": "What is the role of oxygen in the reaction: 2Na + Cl\u2082 \u2192 2NaCl?",
+        "question": "In a double displacement reaction, what is generally formed?",
         "options": [
-            "Oxidizing agent",
-            "Reducing agent",
-            "Catalyst",
-            "Inert gas"
+            "A single product",
+            "A gas only",
+            "A precipitate",
+            "A salt and hydrogen gas"
         ],
-        "answer": "Reducing agent"
+        "answer": "A precipitate"
     },
     {
-        "question": "What law is verified by the equation: HCl + NaOH \u2192 NaCl + H\u2082O?",
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
         "options": [
-            "Law of conservation of mass",
-            "Boyle's law",
-            "Charle's law",
-            "Law of constant proportion"
-        ],
-        "answer": "Law of conservation of mass"
-    },
-    {
-        "question": "Which product is formed in the reaction: 2Na + Cl\u2082 \u2192 2NaCl?",
-        "options": [
-            "KCl",
-            "O\u2082",
-            "H\u2082",
-            "CaCO\u2083"
-        ],
-        "answer": "H\u2082"
-    },
-    {
-        "question": "Which observation confirms a chemical change in the reaction: 2Fe + 3Cl\u2082 \u2192 2FeCl\u2083?",
-        "options": [
-            "Formation of precipitate",
-            "Change in temperature",
+            "Change in state",
             "Evolution of gas",
-            "All of the above"
+            "Change in shape",
+            "Change in temperature"
         ],
-        "answer": "All of the above"
+        "answer": "Change in shape"
     },
     {
-        "question": "Which product is formed in the reaction: HCl + NaOH \u2192 NaCl + H\u2082O?",
+        "question": "In a double displacement reaction, what is generally formed?",
         "options": [
-            "KCl",
-            "O\u2082",
-            "H\u2082",
-            "CaCO\u2083"
+            "A single product",
+            "A gas only",
+            "A precipitate",
+            "A salt and hydrogen gas"
         ],
-        "answer": "H\u2082"
+        "answer": "A precipitate"
     },
     {
-        "question": "What type of chemical change occurs in the reaction: H\u2082 + Cl\u2082 \u2192 2HCl?",
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
         "options": [
-            "Irreversible chemical change",
-            "Physical change",
-            "Condensation",
-            "Neutralization"
+            "Change in state",
+            "Evolution of gas",
+            "Change in shape",
+            "Change in temperature"
         ],
-        "answer": "Irreversible chemical change"
+        "answer": "Change in shape"
     },
     {
-        "question": "Identify the reaction type in the equation: Cu + 2AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + 2Ag",
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
         "options": [
-            "Combination",
-            "Decomposition",
-            "Displacement",
-            "Double Displacement"
+            "Change in state",
+            "Evolution of gas",
+            "Change in shape",
+            "Change in temperature"
         ],
-        "answer": "Displacement"
+        "answer": "Change in shape"
     },
     {
-        "question": "What law is verified by the equation: Na\u2082SO\u2084 + BaCl\u2082 \u2192 BaSO\u2084 + 2NaCl?",
+        "question": "Which of the following is not a characteristic of a chemical reaction?",
         "options": [
-            "Law of conservation of mass",
-            "Boyle's law",
-            "Charle's law",
-            "Law of constant proportion"
+            "Change in state",
+            "Evolution of gas",
+            "Change in shape",
+            "Change in temperature"
         ],
-        "answer": "Law of conservation of mass"
+        "answer": "Change in shape"
     },
     {
-        "question": "What type of chemical change occurs in the reaction: Pb(NO\u2083)\u2082 + 2KI \u2192 PbI\u2082 + 2KNO\u2083?",
+        "question": "In the reaction: 2Fe + 3Cl\u2082 \u2192 2FeCl\u2083, which substance is oxidized?",
         "options": [
-            "Irreversible chemical change",
-            "Physical change",
-            "Condensation",
-            "Neutralization"
+            "Fe",
+            "Cl\u2082",
+            "FeCl\u2083",
+            "None"
         ],
-        "answer": "Irreversible chemical change"
-    },
-    {
-        "question": "What is the role of oxygen in the reaction: Zn + H\u2082SO\u2084 \u2192 ZnSO\u2084 + H\u2082?",
-        "options": [
-            "Oxidizing agent",
-            "Reducing agent",
-            "Catalyst",
-            "Inert gas"
-        ],
-        "answer": "Reducing agent"
-    },
-    {
-        "question": "Which of the following best describes the reaction: AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083?",
-        "options": [
-            "Double Displacement reaction",
-            "It is an endothermic process",
-            "Only physical changes are observed",
-            "No new substances are formed"
-        ],
-        "answer": "Double Displacement reaction"
-    },
-    {
-        "question": "Which product is formed in the reaction: AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083?",
-        "options": [
-            "KCl",
-            "O\u2082",
-        ] 
+        "answer": "Fe"
     }
 ]
