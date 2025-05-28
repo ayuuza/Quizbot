@@ -79,13 +79,17 @@ def result(update: Update, context: CallbackContext):
         punishment = (
             "🏋️ Do 15 push-ups and 100 squats
 "
-            "🧠 Solve 30 extra maths problems today!"
+            "📷 Girls: Upload 1 photo on Instagram without makeup and filter
+"
+            "🧠 Girls: Solve 30 maths sums in 1 day"
         )
     elif 31 <= incorrect <= 40:
         punishment = (
             "🏋️ Do 50 push-ups and 200 squats
 "
-            "🧠 Solve 50 extra maths problems today!"
+            "📷 Girls: Upload 5 photos on Instagram without makeup and filter
+"
+            "🧠 Girls: Solve 50 maths sums in 1 day"
         )
 
     if punishment:
