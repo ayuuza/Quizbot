@@ -1,802 +1,609 @@
 [
-  {
-    "question": "Which of the following is an example of a combination reaction?",
-    "options": [
-      "2H\u2082 + O\u2082 \u2192 2H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which of the following reactions is a decomposition reaction?",
-    "options": [
-      "CaO + H\u2082O \u2192 Ca(OH)\u2082",
-      "2AgCl \u2192 2Ag + Cl\u2082",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is the gas evolved when zinc reacts with sulphuric acid?",
-    "options": [
-      "O\u2082",
-      "H\u2082",
-      "Cl\u2082",
-      "CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "The brown coating observed on iron nails in copper sulphate solution is due to:",
-    "options": [
-      "Copper",
-      "Iron oxide",
-      "Zinc",
-      "Rust"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which of the following is a double displacement reaction?",
-    "options": [
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083",
-      "Zn + H\u2082SO\u2084 \u2192 ZnSO\u2084 + H\u2082",
-      "C + O\u2082 \u2192 CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "In a redox reaction, reduction is defined as:",
-    "options": [
-      "Gain of oxygen",
-      "Loss of electrons",
-      "Gain of electrons",
-      "Loss of hydrogen"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "Which of the following reactions produces a precipitate?",
-    "options": [
-      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
-      "HCl + NaOH \u2192 NaCl + H\u2082O",
-      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
-      "C + O\u2082 \u2192 CO\u2082"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which substance is oxidized in the reaction: Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu?",
-    "options": [
-      "Cu",
-      "Zn",
-      "SO\u2084",
-      "H\u2082O"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is rust chemically composed of?",
-    "options": [
-      "Fe\u2082O\u2083\u00b7xH\u2082O",
-      "FeCl\u2083",
-      "FeSO\u2084",
-      "Fe(NO\u2083)\u2083"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which reaction is used in black and white photography?",
-    "options": [
-      "2AgCl \u2192 2Ag + Cl\u2082",
-      "CaO + H\u2082O \u2192 Ca(OH)\u2082",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 10?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 11?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 12? (e.g. simulated eqn 12: H\u2082 + Cl\u2082 \u2192 2HCl)",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 13?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 14?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 15?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 16? (e.g. simulated eqn 16: H\u2082 + Cl\u2082 \u2192 2HCl)",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 17?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 18?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 19?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 20? (e.g. simulated eqn 20: H\u2082 + Cl\u2082 \u2192 2HCl)",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 21?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 22?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 23?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 24? (e.g. simulated eqn 24: H\u2082 + Cl\u2082 \u2192 2HCl)",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 25?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 26?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 27?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 28? (e.g. simulated eqn 28: H\u2082 + Cl\u2082 \u2192 2HCl)",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 29?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 30?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 31?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 32? (e.g. simulated eqn 32: H\u2082 + Cl\u2082 \u2192 2HCl)",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 33?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 34?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 35?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 36? (e.g. simulated eqn 36: H\u2082 + Cl\u2082 \u2192 2HCl)",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 37?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 38?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 39?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 40? (e.g. simulated eqn 40: H\u2082 + Cl\u2082 \u2192 2HCl)",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 41?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 42?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 43?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 44? (e.g. simulated eqn 44: H\u2082 + Cl\u2082 \u2192 2HCl)",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 45?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 46?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 47?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 48? (e.g. simulated eqn 48: H\u2082 + Cl\u2082 \u2192 2HCl)",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 49?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 50?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 51?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 52? (e.g. simulated eqn 52: H\u2082 + Cl\u2082 \u2192 2HCl)",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 53?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 54?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 55?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 56? (e.g. simulated eqn 56: H\u2082 + Cl\u2082 \u2192 2HCl)",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 57?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 58?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 59?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 60? (e.g. simulated eqn 60: H\u2082 + Cl\u2082 \u2192 2HCl)",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 61?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 62?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 63?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 64? (e.g. simulated eqn 64: H\u2082 + Cl\u2082 \u2192 2HCl)",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 65?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 66?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 67?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 68? (e.g. simulated eqn 68: H\u2082 + Cl\u2082 \u2192 2HCl)",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 69?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 70?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 71?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 72? (e.g. simulated eqn 72: H\u2082 + Cl\u2082 \u2192 2HCl)",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 73?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 74?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 75?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 76? (e.g. simulated eqn 76: H\u2082 + Cl\u2082 \u2192 2HCl)",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 77?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 78?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 2
-  },
-  {
-    "question": "What type of reaction is represented by Reaction 79?",
-    "options": [
-      "Combination",
-      "Decomposition",
-      "Displacement",
-      "Double Displacement"
-    ],
-    "answer": 3
-  }
-    ]
+    {
+        "question": "Which observation confirms a chemical change in the reaction: ZnCO\u2083 \u2192 ZnO + CO\u2082?",
+        "options": [
+            "Formation of precipitate",
+            "Change in temperature",
+            "Evolution of gas",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Identify the reaction type in the equation: 2Na + Cl\u2082 \u2192 2NaCl",
+        "options": [
+            "Combination",
+            "Decomposition",
+            "Displacement",
+            "Double Displacement"
+        ],
+        "answer": "Combination"
+    },
+    {
+        "question": "Identify the reaction type in the equation: Na\u2082SO\u2084 + BaCl\u2082 \u2192 BaSO\u2084 + 2NaCl",
+        "options": [
+            "Combination",
+            "Decomposition",
+            "Displacement",
+            "Double Displacement"
+        ],
+        "answer": "Double Displacement"
+    },
+    {
+        "question": "Which of the following best describes the reaction: 2Al + Fe\u2082O\u2083 \u2192 2Fe + Al\u2082O\u2083?",
+        "options": [
+            "Redox reaction",
+            "It is an endothermic process",
+            "Only physical changes are observed",
+            "No new substances are formed"
+        ],
+        "answer": "Redox reaction"
+    },
+    {
+        "question": "In which type of reaction does a more reactive element displace a less reactive element from its compound, as seen in Pb(NO\u2083)\u2082 + 2KI \u2192 PbI\u2082 + 2KNO\u2083?",
+        "options": [
+            "Displacement reaction",
+            "Combination reaction",
+            "Precipitation",
+            "Synthesis reaction"
+        ],
+        "answer": "Displacement reaction"
+    },
+    {
+        "question": "What law is verified by the equation: 2KClO\u2083 \u2192 2KCl + 3O\u2082?",
+        "options": [
+            "Law of conservation of mass",
+            "Boyle's law",
+            "Charle's law",
+            "Law of constant proportion"
+        ],
+        "answer": "Law of conservation of mass"
+    },
+    {
+        "question": "What type of chemical change occurs in the reaction: 2Al + Fe\u2082O\u2083 \u2192 2Fe + Al\u2082O\u2083?",
+        "options": [
+            "Irreversible chemical change",
+            "Physical change",
+            "Condensation",
+            "Neutralization"
+        ],
+        "answer": "Irreversible chemical change"
+    },
+    {
+        "question": "In which type of reaction does a more reactive element displace a less reactive element from its compound, as seen in C + O\u2082 \u2192 CO\u2082?",
+        "options": [
+            "Displacement reaction",
+            "Combination reaction",
+            "Precipitation",
+            "Synthesis reaction"
+        ],
+        "answer": "Displacement reaction"
+    },
+    {
+        "question": "What is the role of oxygen in the reaction: HCl + NaOH \u2192 NaCl + H\u2082O?",
+        "options": [
+            "Oxidizing agent",
+            "Reducing agent",
+            "Catalyst",
+            "Inert gas"
+        ],
+        "answer": "Reducing agent"
+    },
+    {
+        "question": "Which observation confirms a chemical change in the reaction: Cu + 2AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + 2Ag?",
+        "options": [
+            "Formation of precipitate",
+            "Change in temperature",
+            "Evolution of gas",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "In which type of reaction does a more reactive element displace a less reactive element from its compound, as seen in HCl + NaOH \u2192 NaCl + H\u2082O?",
+        "options": [
+            "Displacement reaction",
+            "Combination reaction",
+            "Precipitation",
+            "Synthesis reaction"
+        ],
+        "answer": "Displacement reaction"
+    },
+    {
+        "question": "In which type of reaction does a more reactive element displace a less reactive element from its compound, as seen in 2Na + Cl\u2082 \u2192 2NaCl?",
+        "options": [
+            "Displacement reaction",
+            "Combination reaction",
+            "Precipitation",
+            "Synthesis reaction"
+        ],
+        "answer": "Displacement reaction"
+    },
+    {
+        "question": "What law is verified by the equation: ZnCO\u2083 \u2192 ZnO + CO\u2082?",
+        "options": [
+            "Law of conservation of mass",
+            "Boyle's law",
+            "Charle's law",
+            "Law of constant proportion"
+        ],
+        "answer": "Law of conservation of mass"
+    },
+    {
+        "question": "What is the role of oxygen in the reaction: C + O\u2082 \u2192 CO\u2082?",
+        "options": [
+            "Oxidizing agent",
+            "Reducing agent",
+            "Catalyst",
+            "Inert gas"
+        ],
+        "answer": "Oxidizing agent"
+    },
+    {
+        "question": "What law is verified by the equation: Cu + 2AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + 2Ag?",
+        "options": [
+            "Law of conservation of mass",
+            "Boyle's law",
+            "Charle's law",
+            "Law of constant proportion"
+        ],
+        "answer": "Law of conservation of mass"
+    },
+    {
+        "question": "What type of chemical change occurs in the reaction: Fe + CuSO\u2084 \u2192 FeSO\u2084 + Cu?",
+        "options": [
+            "Irreversible chemical change",
+            "Physical change",
+            "Condensation",
+            "Neutralization"
+        ],
+        "answer": "Irreversible chemical change"
+    },
+    {
+        "question": "Which observation confirms a chemical change in the reaction: Zn + H\u2082SO\u2084 \u2192 ZnSO\u2084 + H\u2082?",
+        "options": [
+            "Formation of precipitate",
+            "Change in temperature",
+            "Evolution of gas",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What type of chemical change occurs in the reaction: Cu + 2AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + 2Ag?",
+        "options": [
+            "Irreversible chemical change",
+            "Physical change",
+            "Condensation",
+            "Neutralization"
+        ],
+        "answer": "Irreversible chemical change"
+    },
+    {
+        "question": "Identify the reaction type in the equation: Fe + CuSO\u2084 \u2192 FeSO\u2084 + Cu",
+        "options": [
+            "Combination",
+            "Decomposition",
+            "Displacement",
+            "Double Displacement"
+        ],
+        "answer": "Displacement"
+    },
+    {
+        "question": "In which type of reaction does a more reactive element displace a less reactive element from its compound, as seen in CaCO\u2083 \u2192 CaO + CO\u2082?",
+        "options": [
+            "Displacement reaction",
+            "Combination reaction",
+            "Precipitation",
+            "Synthesis reaction"
+        ],
+        "answer": "Displacement reaction"
+    },
+    {
+        "question": "What is the role of oxygen in the reaction: Cu + 2AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + 2Ag?",
+        "options": [
+            "Oxidizing agent",
+            "Reducing agent",
+            "Catalyst",
+            "Inert gas"
+        ],
+        "answer": "Reducing agent"
+    },
+    {
+        "question": "Identify the reaction type in the equation: AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083",
+        "options": [
+            "Combination",
+            "Decomposition",
+            "Displacement",
+            "Double Displacement"
+        ],
+        "answer": "Double Displacement"
+    },
+    {
+        "question": "What type of chemical change occurs in the reaction: HCl + NaOH \u2192 NaCl + H\u2082O?",
+        "options": [
+            "Irreversible chemical change",
+            "Physical change",
+            "Condensation",
+            "Neutralization"
+        ],
+        "answer": "Irreversible chemical change"
+    },
+    {
+        "question": "Which product is formed in the reaction: 2Fe + 3Cl\u2082 \u2192 2FeCl\u2083?",
+        "options": [
+            "KCl",
+            "O\u2082",
+            "H\u2082",
+            "CaCO\u2083"
+        ],
+        "answer": "H\u2082"
+    },
+    {
+        "question": "What type of chemical change occurs in the reaction: 2KClO\u2083 \u2192 2KCl + 3O\u2082?",
+        "options": [
+            "Irreversible chemical change",
+            "Physical change",
+            "Condensation",
+            "Neutralization"
+        ],
+        "answer": "Irreversible chemical change"
+    },
+    {
+        "question": "What law is verified by the equation: AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083?",
+        "options": [
+            "Law of conservation of mass",
+            "Boyle's law",
+            "Charle's law",
+            "Law of constant proportion"
+        ],
+        "answer": "Law of conservation of mass"
+    },
+    {
+        "question": "Which observation confirms a chemical change in the reaction: CH\u2084 + 2O\u2082 \u2192 CO\u2082 + 2H\u2082O?",
+        "options": [
+            "Formation of precipitate",
+            "Change in temperature",
+            "Evolution of gas",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which observation confirms a chemical change in the reaction: HCl + NaOH \u2192 NaCl + H\u2082O?",
+        "options": [
+            "Formation of precipitate",
+            "Change in temperature",
+            "Evolution of gas",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "In which type of reaction does a more reactive element displace a less reactive element from its compound, as seen in CaO + H\u2082O \u2192 Ca(OH)\u2082?",
+        "options": [
+            "Displacement reaction",
+            "Combination reaction",
+            "Precipitation",
+            "Synthesis reaction"
+        ],
+        "answer": "Displacement reaction"
+    },
+    {
+        "question": "What is the role of oxygen in the reaction: CaCO\u2083 \u2192 CaO + CO\u2082?",
+        "options": [
+            "Oxidizing agent",
+            "Reducing agent",
+            "Catalyst",
+            "Inert gas"
+        ],
+        "answer": "Oxidizing agent"
+    },
+    {
+        "question": "Which product is formed in the reaction: Cu + 2AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + 2Ag?",
+        "options": [
+            "KCl",
+            "O\u2082",
+            "H\u2082",
+            "CaCO\u2083"
+        ],
+        "answer": "H\u2082"
+    },
+    {
+        "question": "Which product is formed in the reaction: CaO + H\u2082O \u2192 Ca(OH)\u2082?",
+        "options": [
+            "KCl",
+            "O\u2082",
+            "H\u2082",
+            "CaCO\u2083"
+        ],
+        "answer": "H\u2082"
+    },
+    {
+        "question": "Identify the reaction type in the equation: Zn + H\u2082SO\u2084 \u2192 ZnSO\u2084 + H\u2082",
+        "options": [
+            "Combination",
+            "Decomposition",
+            "Displacement",
+            "Double Displacement"
+        ],
+        "answer": "Displacement"
+    },
+    {
+        "question": "Which product is formed in the reaction: CaCO\u2083 \u2192 CaO + CO\u2082?",
+        "options": [
+            "KCl",
+            "O\u2082",
+            "H\u2082",
+            "CaCO\u2083"
+        ],
+        "answer": "O\u2082"
+    },
+    {
+        "question": "What law is verified by the equation: Mg + 2HCl \u2192 MgCl\u2082 + H\u2082?",
+        "options": [
+            "Law of conservation of mass",
+            "Boyle's law",
+            "Charle's law",
+            "Law of constant proportion"
+        ],
+        "answer": "Law of conservation of mass"
+    },
+    {
+        "question": "Which product is formed in the reaction: Na + H\u2082O \u2192 NaOH + H\u2082?",
+        "options": [
+            "KCl",
+            "O\u2082",
+            "H\u2082",
+            "CaCO\u2083"
+        ],
+        "answer": "H\u2082"
+    },
+    {
+        "question": "What law is verified by the equation: 2Na + Cl\u2082 \u2192 2NaCl?",
+        "options": [
+            "Law of conservation of mass",
+            "Boyle's law",
+            "Charle's law",
+            "Law of constant proportion"
+        ],
+        "answer": "Law of conservation of mass"
+    },
+    {
+        "question": "Which observation confirms a chemical change in the reaction: H\u2082 + Cl\u2082 \u2192 2HCl?",
+        "options": [
+            "Formation of precipitate",
+            "Change in temperature",
+            "Evolution of gas",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What type of chemical change occurs in the reaction: Na\u2082SO\u2084 + BaCl\u2082 \u2192 BaSO\u2084 + 2NaCl?",
+        "options": [
+            "Irreversible chemical change",
+            "Physical change",
+            "Condensation",
+            "Neutralization"
+        ],
+        "answer": "Irreversible chemical change"
+    },
+    {
+        "question": "Which product is formed in the reaction: Mg + 2HCl \u2192 MgCl\u2082 + H\u2082?",
+        "options": [
+            "KCl",
+            "O\u2082",
+            "H\u2082",
+            "CaCO\u2083"
+        ],
+        "answer": "H\u2082"
+    },
+    {
+        "question": "In which type of reaction does a more reactive element displace a less reactive element from its compound, as seen in Na\u2082SO\u2084 + BaCl\u2082 \u2192 BaSO\u2084 + 2NaCl?",
+        "options": [
+            "Displacement reaction",
+            "Combination reaction",
+            "Precipitation",
+            "Synthesis reaction"
+        ],
+        "answer": "Displacement reaction"
+    },
+    {
+        "question": "What is the role of oxygen in the reaction: Mg + 2HCl \u2192 MgCl\u2082 + H\u2082?",
+        "options": [
+            "Oxidizing agent",
+            "Reducing agent",
+            "Catalyst",
+            "Inert gas"
+        ],
+        "answer": "Reducing agent"
+    },
+    {
+        "question": "What is the role of oxygen in the reaction: 2KClO\u2083 \u2192 2KCl + 3O\u2082?",
+        "options": [
+            "Oxidizing agent",
+            "Reducing agent",
+            "Catalyst",
+            "Inert gas"
+        ],
+        "answer": "Oxidizing agent"
+    },
+    {
+        "question": "Which observation confirms a chemical change in the reaction: Fe + CuSO\u2084 \u2192 FeSO\u2084 + Cu?",
+        "options": [
+            "Formation of precipitate",
+            "Change in temperature",
+            "Evolution of gas",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which observation confirms a chemical change in the reaction: AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083?",
+        "options": [
+            "Formation of precipitate",
+            "Change in temperature",
+            "Evolution of gas",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What law is verified by the equation: CaCO\u2083 \u2192 CaO + CO\u2082?",
+        "options": [
+            "Law of conservation of mass",
+            "Boyle's law",
+            "Charle's law",
+            "Law of constant proportion"
+        ],
+        "answer": "Law of conservation of mass"
+    },
+    {
+        "question": "Identify the reaction type in the equation: CaCO\u2083 \u2192 CaO + CO\u2082",
+        "options": [
+            "Combination",
+            "Decomposition",
+            "Displacement",
+            "Double Displacement"
+        ],
+        "answer": "Decomposition"
+    },
+    {
+        "question": "Which of the following best describes the reaction: CaCO\u2083 \u2192 CaO + CO\u2082?",
+        "options": [
+            "Decomposition reaction",
+            "It is an endothermic process",
+            "Only physical changes are observed",
+            "No new substances are formed"
+        ],
+        "answer": "Decomposition reaction"
+    },
+    {
+        "question": "Which observation confirms a chemical change in the reaction: 2Na + Cl\u2082 \u2192 2NaCl?",
+        "options": [
+            "Formation of precipitate",
+            "Change in temperature",
+            "Evolution of gas",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the role of oxygen in the reaction: 2Na + Cl\u2082 \u2192 2NaCl?",
+        "options": [
+            "Oxidizing agent",
+            "Reducing agent",
+            "Catalyst",
+            "Inert gas"
+        ],
+        "answer": "Reducing agent"
+    },
+    {
+        "question": "What law is verified by the equation: HCl + NaOH \u2192 NaCl + H\u2082O?",
+        "options": [
+            "Law of conservation of mass",
+            "Boyle's law",
+            "Charle's law",
+            "Law of constant proportion"
+        ],
+        "answer": "Law of conservation of mass"
+    },
+    {
+        "question": "Which product is formed in the reaction: 2Na + Cl\u2082 \u2192 2NaCl?",
+        "options": [
+            "KCl",
+            "O\u2082",
+            "H\u2082",
+            "CaCO\u2083"
+        ],
+        "answer": "H\u2082"
+    },
+    {
+        "question": "Which observation confirms a chemical change in the reaction: 2Fe + 3Cl\u2082 \u2192 2FeCl\u2083?",
+        "options": [
+            "Formation of precipitate",
+            "Change in temperature",
+            "Evolution of gas",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which product is formed in the reaction: HCl + NaOH \u2192 NaCl + H\u2082O?",
+        "options": [
+            "KCl",
+            "O\u2082",
+            "H\u2082",
+            "CaCO\u2083"
+        ],
+        "answer": "H\u2082"
+    },
+    {
+        "question": "What type of chemical change occurs in the reaction: H\u2082 + Cl\u2082 \u2192 2HCl?",
+        "options": [
+            "Irreversible chemical change",
+            "Physical change",
+            "Condensation",
+            "Neutralization"
+        ],
+        "answer": "Irreversible chemical change"
+    },
+    {
+        "question": "Identify the reaction type in the equation: Cu + 2AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + 2Ag",
+        "options": [
+            "Combination",
+            "Decomposition",
+            "Displacement",
+            "Double Displacement"
+        ],
+        "answer": "Displacement"
+    },
+    {
+        "question": "What law is verified by the equation: Na\u2082SO\u2084 + BaCl\u2082 \u2192 BaSO\u2084 + 2NaCl?",
+        "options": [
+            "Law of conservation of mass",
+            "Boyle's law",
+            "Charle's law",
+            "Law of constant proportion"
+        ],
+        "answer": "Law of conservation of mass"
+    },
+    {
+        "question": "What type of chemical change occurs in the reaction: Pb(NO\u2083)\u2082 + 2KI \u2192 PbI\u2082 + 2KNO\u2083?",
+        "options": [
+            "Irreversible chemical change",
+            "Physical change",
+            "Condensation",
+            "Neutralization"
+        ],
+        "answer": "Irreversible chemical change"
+    },
+    {
+        "question": "What is the role of oxygen in the reaction: Zn + H\u2082SO\u2084 \u2192 ZnSO\u2084 + H\u2082?",
+        "options": [
+            "Oxidizing agent",
+            "Reducing agent",
+            "Catalyst",
+            "Inert gas"
+        ],
+        "answer": "Reducing agent"
+    },
+    {
+        "question": "Which of the following best describes the reaction: AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083?",
+        "options": [
+            "Double Displacement reaction",
+            "It is an endothermic process",
+            "Only physical changes are observed",
+            "No new substances are formed"
+        ],
+        "answer": "Double Displacement reaction"
+    },
+    {
+        "question": "Which product is formed in the reaction: AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083?",
+        "options": [
+            "KCl",
+            "O\u2082",
+        ] 
+    }
+]
