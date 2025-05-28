@@ -1,26 +1,136 @@
 [
   {
-    "question": "Which of the following is a displacement reaction? (Q1-dff9)",
+    "question": "Which of the following is an example of a combination reaction?",
     "options": [
-      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083",
+      "2H\u2082 + O\u2082 \u2192 2H\u2082O",
+      "CaCO\u2083 \u2192 CaO + CO\u2082",
       "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082"
+      "AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
-    "question": "What is the color of ferrous sulphate crystals? (Q2-80d3)",
+    "question": "Which of the following reactions is a decomposition reaction?",
     "options": [
-      "Blue",
-      "Green",
-      "White",
-      "Pink"
+      "CaO + H\u2082O \u2192 Ca(OH)\u2082",
+      "2AgCl \u2192 2Ag + Cl\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu"
     ],
     "answer": 1
   },
   {
-    "question": "What type of reaction is: 2AgCl \u2192 2Ag + Cl\u2082? (Q3-7d25)",
+    "question": "What is the gas evolved when zinc reacts with sulphuric acid?",
+    "options": [
+      "O\u2082",
+      "H\u2082",
+      "Cl\u2082",
+      "CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The brown coating observed on iron nails in copper sulphate solution is due to:",
+    "options": [
+      "Copper",
+      "Iron oxide",
+      "Zinc",
+      "Rust"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a double displacement reaction?",
+    "options": [
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "AgNO\u2083 + NaCl \u2192 AgCl + NaNO\u2083",
+      "Zn + H\u2082SO\u2084 \u2192 ZnSO\u2084 + H\u2082",
+      "C + O\u2082 \u2192 CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In a redox reaction, reduction is defined as:",
+    "options": [
+      "Gain of oxygen",
+      "Loss of electrons",
+      "Gain of electrons",
+      "Loss of hydrogen"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following reactions produces a precipitate?",
+    "options": [
+      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
+      "HCl + NaOH \u2192 NaCl + H\u2082O",
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+      "C + O\u2082 \u2192 CO\u2082"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which substance is oxidized in the reaction: Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu?",
+    "options": [
+      "Cu",
+      "Zn",
+      "SO\u2084",
+      "H\u2082O"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is rust chemically composed of?",
+    "options": [
+      "Fe\u2082O\u2083\u00b7xH\u2082O",
+      "FeCl\u2083",
+      "FeSO\u2084",
+      "Fe(NO\u2083)\u2083"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which reaction is used in black and white photography?",
+    "options": [
+      "2AgCl \u2192 2Ag + Cl\u2082",
+      "CaO + H\u2082O \u2192 Ca(OH)\u2082",
+      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
+      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 10?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 11?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 12? (e.g. simulated eqn 12: H\u2082 + Cl\u2082 \u2192 2HCl)",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 13?",
     "options": [
       "Combination",
       "Decomposition",
@@ -30,97 +140,37 @@
     "answer": 1
   },
   {
-    "question": "Which gas is evolved when zinc reacts with dilute HCl? (Q4-3048)",
+    "question": "What type of reaction is represented by Reaction 14?",
     "options": [
-      "Oxygen",
-      "Hydrogen",
-      "Chlorine",
-      "Carbon dioxide"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which chemical change is observed when iron is placed in copper sulphate solution? (Q5-515a)",
-    "options": [
-      "Blue color of solution darkens",
-      "Brown deposit forms on iron",
-      "Iron dissolves completely",
-      "Copper is formed as white precipitate"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which of the following is a redox reaction? (Q6-d795)",
-    "options": [
-      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
-      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "C + O\u2082 \u2192 CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which reaction represents a neutralization reaction? (Q7-edf2)",
-    "options": [
-      "HCl + NaOH \u2192 NaCl + H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "Cu + AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + Ag"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is: CaO + H\u2082O \u2192 Ca(OH)\u2082? (Q8-c614)",
-    "options": [
-      "Decomposition",
       "Combination",
+      "Decomposition",
       "Displacement",
-      "Redox"
+      "Double Displacement"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
-    "question": "What is observed when silver chloride is exposed to sunlight? (Q9-ad90)",
+    "question": "What type of reaction is represented by Reaction 15?",
     "options": [
-      "It turns black",
-      "It turns blue",
-      "It dissolves in water",
-      "No change occurs"
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 16? (e.g. simulated eqn 16: H\u2082 + Cl\u2082 \u2192 2HCl)",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
     ],
     "answer": 0
   },
   {
-    "question": "Which of the following prevents iron from rusting? (Q10-1ec6)",
-    "options": [
-      "Painting",
-      "Oxidizing",
-      "Diluting",
-      "Immersing in water"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which of the following is a displacement reaction? (Q11-0a09)",
-    "options": [
-      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is the color of ferrous sulphate crystals? (Q12-4fff)",
-    "options": [
-      "Blue",
-      "Green",
-      "White",
-      "Pink"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is: 2AgCl \u2192 2Ag + Cl\u2082? (Q13-ccd8)",
+    "question": "What type of reaction is represented by Reaction 17?",
     "options": [
       "Combination",
       "Decomposition",
@@ -130,97 +180,37 @@
     "answer": 1
   },
   {
-    "question": "Which gas is evolved when zinc reacts with dilute HCl? (Q14-3cd7)",
+    "question": "What type of reaction is represented by Reaction 18?",
     "options": [
-      "Oxygen",
-      "Hydrogen",
-      "Chlorine",
-      "Carbon dioxide"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which chemical change is observed when iron is placed in copper sulphate solution? (Q15-6631)",
-    "options": [
-      "Blue color of solution darkens",
-      "Brown deposit forms on iron",
-      "Iron dissolves completely",
-      "Copper is formed as white precipitate"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which of the following is a redox reaction? (Q16-fb86)",
-    "options": [
-      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
-      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "C + O\u2082 \u2192 CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which reaction represents a neutralization reaction? (Q17-48ee)",
-    "options": [
-      "HCl + NaOH \u2192 NaCl + H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "Cu + AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + Ag"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is: CaO + H\u2082O \u2192 Ca(OH)\u2082? (Q18-bd64)",
-    "options": [
-      "Decomposition",
       "Combination",
+      "Decomposition",
       "Displacement",
-      "Redox"
+      "Double Displacement"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
-    "question": "What is observed when silver chloride is exposed to sunlight? (Q19-26a0)",
+    "question": "What type of reaction is represented by Reaction 19?",
     "options": [
-      "It turns black",
-      "It turns blue",
-      "It dissolves in water",
-      "No change occurs"
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 20? (e.g. simulated eqn 20: H\u2082 + Cl\u2082 \u2192 2HCl)",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
     ],
     "answer": 0
   },
   {
-    "question": "Which of the following prevents iron from rusting? (Q20-e6cf)",
-    "options": [
-      "Painting",
-      "Oxidizing",
-      "Diluting",
-      "Immersing in water"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which of the following is a displacement reaction? (Q21-2315)",
-    "options": [
-      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is the color of ferrous sulphate crystals? (Q22-9dd0)",
-    "options": [
-      "Blue",
-      "Green",
-      "White",
-      "Pink"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is: 2AgCl \u2192 2Ag + Cl\u2082? (Q23-4e29)",
+    "question": "What type of reaction is represented by Reaction 21?",
     "options": [
       "Combination",
       "Decomposition",
@@ -230,97 +220,37 @@
     "answer": 1
   },
   {
-    "question": "Which gas is evolved when zinc reacts with dilute HCl? (Q24-b4b3)",
+    "question": "What type of reaction is represented by Reaction 22?",
     "options": [
-      "Oxygen",
-      "Hydrogen",
-      "Chlorine",
-      "Carbon dioxide"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which chemical change is observed when iron is placed in copper sulphate solution? (Q25-54ec)",
-    "options": [
-      "Blue color of solution darkens",
-      "Brown deposit forms on iron",
-      "Iron dissolves completely",
-      "Copper is formed as white precipitate"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which of the following is a redox reaction? (Q26-0d30)",
-    "options": [
-      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
-      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "C + O\u2082 \u2192 CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which reaction represents a neutralization reaction? (Q27-bc2b)",
-    "options": [
-      "HCl + NaOH \u2192 NaCl + H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "Cu + AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + Ag"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is: CaO + H\u2082O \u2192 Ca(OH)\u2082? (Q28-bc43)",
-    "options": [
-      "Decomposition",
       "Combination",
+      "Decomposition",
       "Displacement",
-      "Redox"
+      "Double Displacement"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
-    "question": "What is observed when silver chloride is exposed to sunlight? (Q29-0105)",
+    "question": "What type of reaction is represented by Reaction 23?",
     "options": [
-      "It turns black",
-      "It turns blue",
-      "It dissolves in water",
-      "No change occurs"
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 24? (e.g. simulated eqn 24: H\u2082 + Cl\u2082 \u2192 2HCl)",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
     ],
     "answer": 0
   },
   {
-    "question": "Which of the following prevents iron from rusting? (Q30-eada)",
-    "options": [
-      "Painting",
-      "Oxidizing",
-      "Diluting",
-      "Immersing in water"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which of the following is a displacement reaction? (Q31-aba3)",
-    "options": [
-      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is the color of ferrous sulphate crystals? (Q32-9134)",
-    "options": [
-      "Blue",
-      "Green",
-      "White",
-      "Pink"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is: 2AgCl \u2192 2Ag + Cl\u2082? (Q33-3ed6)",
+    "question": "What type of reaction is represented by Reaction 25?",
     "options": [
       "Combination",
       "Decomposition",
@@ -330,97 +260,37 @@
     "answer": 1
   },
   {
-    "question": "Which gas is evolved when zinc reacts with dilute HCl? (Q34-feb7)",
+    "question": "What type of reaction is represented by Reaction 26?",
     "options": [
-      "Oxygen",
-      "Hydrogen",
-      "Chlorine",
-      "Carbon dioxide"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which chemical change is observed when iron is placed in copper sulphate solution? (Q35-309b)",
-    "options": [
-      "Blue color of solution darkens",
-      "Brown deposit forms on iron",
-      "Iron dissolves completely",
-      "Copper is formed as white precipitate"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which of the following is a redox reaction? (Q36-68bd)",
-    "options": [
-      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
-      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "C + O\u2082 \u2192 CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which reaction represents a neutralization reaction? (Q37-f478)",
-    "options": [
-      "HCl + NaOH \u2192 NaCl + H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "Cu + AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + Ag"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is: CaO + H\u2082O \u2192 Ca(OH)\u2082? (Q38-6e95)",
-    "options": [
-      "Decomposition",
       "Combination",
+      "Decomposition",
       "Displacement",
-      "Redox"
+      "Double Displacement"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
-    "question": "What is observed when silver chloride is exposed to sunlight? (Q39-785e)",
+    "question": "What type of reaction is represented by Reaction 27?",
     "options": [
-      "It turns black",
-      "It turns blue",
-      "It dissolves in water",
-      "No change occurs"
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 28? (e.g. simulated eqn 28: H\u2082 + Cl\u2082 \u2192 2HCl)",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
     ],
     "answer": 0
   },
   {
-    "question": "Which of the following prevents iron from rusting? (Q40-9d49)",
-    "options": [
-      "Painting",
-      "Oxidizing",
-      "Diluting",
-      "Immersing in water"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which of the following is a displacement reaction? (Q41-5582)",
-    "options": [
-      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is the color of ferrous sulphate crystals? (Q42-d7a1)",
-    "options": [
-      "Blue",
-      "Green",
-      "White",
-      "Pink"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is: 2AgCl \u2192 2Ag + Cl\u2082? (Q43-0c7c)",
+    "question": "What type of reaction is represented by Reaction 29?",
     "options": [
       "Combination",
       "Decomposition",
@@ -430,97 +300,37 @@
     "answer": 1
   },
   {
-    "question": "Which gas is evolved when zinc reacts with dilute HCl? (Q44-7c9c)",
+    "question": "What type of reaction is represented by Reaction 30?",
     "options": [
-      "Oxygen",
-      "Hydrogen",
-      "Chlorine",
-      "Carbon dioxide"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which chemical change is observed when iron is placed in copper sulphate solution? (Q45-66c6)",
-    "options": [
-      "Blue color of solution darkens",
-      "Brown deposit forms on iron",
-      "Iron dissolves completely",
-      "Copper is formed as white precipitate"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which of the following is a redox reaction? (Q46-ae2d)",
-    "options": [
-      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
-      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "C + O\u2082 \u2192 CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which reaction represents a neutralization reaction? (Q47-0be7)",
-    "options": [
-      "HCl + NaOH \u2192 NaCl + H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "Cu + AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + Ag"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is: CaO + H\u2082O \u2192 Ca(OH)\u2082? (Q48-253f)",
-    "options": [
-      "Decomposition",
       "Combination",
+      "Decomposition",
       "Displacement",
-      "Redox"
+      "Double Displacement"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
-    "question": "What is observed when silver chloride is exposed to sunlight? (Q49-1eeb)",
+    "question": "What type of reaction is represented by Reaction 31?",
     "options": [
-      "It turns black",
-      "It turns blue",
-      "It dissolves in water",
-      "No change occurs"
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 32? (e.g. simulated eqn 32: H\u2082 + Cl\u2082 \u2192 2HCl)",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
     ],
     "answer": 0
   },
   {
-    "question": "Which of the following prevents iron from rusting? (Q50-f446)",
-    "options": [
-      "Painting",
-      "Oxidizing",
-      "Diluting",
-      "Immersing in water"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which of the following is a displacement reaction? (Q51-3010)",
-    "options": [
-      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is the color of ferrous sulphate crystals? (Q52-a2fe)",
-    "options": [
-      "Blue",
-      "Green",
-      "White",
-      "Pink"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is: 2AgCl \u2192 2Ag + Cl\u2082? (Q53-22c6)",
+    "question": "What type of reaction is represented by Reaction 33?",
     "options": [
       "Combination",
       "Decomposition",
@@ -530,97 +340,37 @@
     "answer": 1
   },
   {
-    "question": "Which gas is evolved when zinc reacts with dilute HCl? (Q54-8691)",
+    "question": "What type of reaction is represented by Reaction 34?",
     "options": [
-      "Oxygen",
-      "Hydrogen",
-      "Chlorine",
-      "Carbon dioxide"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which chemical change is observed when iron is placed in copper sulphate solution? (Q55-47ab)",
-    "options": [
-      "Blue color of solution darkens",
-      "Brown deposit forms on iron",
-      "Iron dissolves completely",
-      "Copper is formed as white precipitate"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which of the following is a redox reaction? (Q56-84d7)",
-    "options": [
-      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
-      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "C + O\u2082 \u2192 CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which reaction represents a neutralization reaction? (Q57-97b8)",
-    "options": [
-      "HCl + NaOH \u2192 NaCl + H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "Cu + AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + Ag"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is: CaO + H\u2082O \u2192 Ca(OH)\u2082? (Q58-2c2e)",
-    "options": [
-      "Decomposition",
       "Combination",
+      "Decomposition",
       "Displacement",
-      "Redox"
+      "Double Displacement"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
-    "question": "What is observed when silver chloride is exposed to sunlight? (Q59-2f0d)",
+    "question": "What type of reaction is represented by Reaction 35?",
     "options": [
-      "It turns black",
-      "It turns blue",
-      "It dissolves in water",
-      "No change occurs"
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 36? (e.g. simulated eqn 36: H\u2082 + Cl\u2082 \u2192 2HCl)",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
     ],
     "answer": 0
   },
   {
-    "question": "Which of the following prevents iron from rusting? (Q60-b196)",
-    "options": [
-      "Painting",
-      "Oxidizing",
-      "Diluting",
-      "Immersing in water"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which of the following is a displacement reaction? (Q61-2f22)",
-    "options": [
-      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is the color of ferrous sulphate crystals? (Q62-7247)",
-    "options": [
-      "Blue",
-      "Green",
-      "White",
-      "Pink"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is: 2AgCl \u2192 2Ag + Cl\u2082? (Q63-3f99)",
+    "question": "What type of reaction is represented by Reaction 37?",
     "options": [
       "Combination",
       "Decomposition",
@@ -630,97 +380,37 @@
     "answer": 1
   },
   {
-    "question": "Which gas is evolved when zinc reacts with dilute HCl? (Q64-aeb3)",
+    "question": "What type of reaction is represented by Reaction 38?",
     "options": [
-      "Oxygen",
-      "Hydrogen",
-      "Chlorine",
-      "Carbon dioxide"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which chemical change is observed when iron is placed in copper sulphate solution? (Q65-1321)",
-    "options": [
-      "Blue color of solution darkens",
-      "Brown deposit forms on iron",
-      "Iron dissolves completely",
-      "Copper is formed as white precipitate"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which of the following is a redox reaction? (Q66-6124)",
-    "options": [
-      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
-      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "C + O\u2082 \u2192 CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which reaction represents a neutralization reaction? (Q67-5a30)",
-    "options": [
-      "HCl + NaOH \u2192 NaCl + H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "Cu + AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + Ag"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is: CaO + H\u2082O \u2192 Ca(OH)\u2082? (Q68-4fa2)",
-    "options": [
-      "Decomposition",
       "Combination",
+      "Decomposition",
       "Displacement",
-      "Redox"
+      "Double Displacement"
     ],
-    "answer": 1
+    "answer": 2
   },
   {
-    "question": "What is observed when silver chloride is exposed to sunlight? (Q69-dc21)",
+    "question": "What type of reaction is represented by Reaction 39?",
     "options": [
-      "It turns black",
-      "It turns blue",
-      "It dissolves in water",
-      "No change occurs"
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 40? (e.g. simulated eqn 40: H\u2082 + Cl\u2082 \u2192 2HCl)",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
     ],
     "answer": 0
   },
   {
-    "question": "Which of the following prevents iron from rusting? (Q70-e265)",
-    "options": [
-      "Painting",
-      "Oxidizing",
-      "Diluting",
-      "Immersing in water"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "Which of the following is a displacement reaction? (Q71-75eb)",
-    "options": [
-      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What is the color of ferrous sulphate crystals? (Q72-5da6)",
-    "options": [
-      "Blue",
-      "Green",
-      "White",
-      "Pink"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "What type of reaction is: 2AgCl \u2192 2Ag + Cl\u2082? (Q73-7561)",
+    "question": "What type of reaction is represented by Reaction 41?",
     "options": [
       "Combination",
       "Decomposition",
@@ -730,120 +420,383 @@
     "answer": 1
   },
   {
-    "question": "Which gas is evolved when zinc reacts with dilute HCl? (Q74-9d5f)",
+    "question": "What type of reaction is represented by Reaction 42?",
     "options": [
-      "Oxygen",
-      "Hydrogen",
-      "Chlorine",
-      "Carbon dioxide"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which chemical change is observed when iron is placed in copper sulphate solution? (Q75-d1cb)",
-    "options": [
-      "Blue color of solution darkens",
-      "Brown deposit forms on iron",
-      "Iron dissolves completely",
-      "Copper is formed as white precipitate"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which of the following is a redox reaction? (Q76-5bfe)",
-    "options": [
-      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
-      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "C + O\u2082 \u2192 CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which reaction represents a neutralization reaction? (Q77-759e)",
-    "options": [
-      "HCl + NaOH \u2192 NaCl + H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "Cu + AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + Ag"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is: CaO + H\u2082O \u2192 Ca(OH)\u2082? (Q78-aae7)",
-    "options": [
-      "Decomposition",
       "Combination",
-      "Displacement",
-      "Redox" 
-          {
-    "question": "Which gas is evolved when zinc reacts with dilute HCl? (Q94-84a6)",
-    "options": [
-      "Oxygen",
-      "Hydrogen",
-      "Chlorine",
-      "Carbon dioxide"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which chemical change is observed when iron is placed in copper sulphate solution? (Q95-29d1)",
-    "options": [
-      "Blue color of solution darkens",
-      "Brown deposit forms on iron",
-      "Iron dissolves completely",
-      "Copper is formed as white precipitate"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which of the following is a redox reaction? (Q96-9e15)",
-    "options": [
-      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
-      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
-      "NaOH + HCl \u2192 NaCl + H\u2082O",
-      "C + O\u2082 \u2192 CO\u2082"
-    ],
-    "answer": 1
-  },
-  {
-    "question": "Which reaction represents a neutralization reaction? (Q97-961b)",
-    "options": [
-      "HCl + NaOH \u2192 NaCl + H\u2082O",
-      "CaCO\u2083 \u2192 CaO + CO\u2082",
-      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
-      "Cu + AgNO\u2083 \u2192 Cu(NO\u2083)\u2082 + Ag"
-    ],
-    "answer": 0
-  },
-  {
-    "question": "What type of reaction is: CaO + H\u2082O \u2192 Ca(OH)\u2082? (Q98-c273)",
-    "options": [
       "Decomposition",
-      "Combination",
       "Displacement",
-      "Redox"
+      "Double Displacement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 43?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 44? (e.g. simulated eqn 44: H\u2082 + Cl\u2082 \u2192 2HCl)",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 45?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
     ],
     "answer": 1
   },
   {
-    "question": "What is observed when silver chloride is exposed to sunlight? (Q99-0eac)",
+    "question": "What type of reaction is represented by Reaction 46?",
     "options": [
-      "It turns black",
-      "It turns blue",
-      "It dissolves in water",
-      "No change occurs"
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 47?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 48? (e.g. simulated eqn 48: H\u2082 + Cl\u2082 \u2192 2HCl)",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
     ],
     "answer": 0
   },
   {
-    "question": "Which of the following prevents iron from rusting? (Q100-52fb)",
+    "question": "What type of reaction is represented by Reaction 49?",
     "options": [
-      "Painting",
-      "Oxidizing",
-      "Diluting",
-      "Immersing in water"
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 50?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 51?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 52? (e.g. simulated eqn 52: H\u2082 + Cl\u2082 \u2192 2HCl)",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
     ],
     "answer": 0
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 53?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 54?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 55?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 56? (e.g. simulated eqn 56: H\u2082 + Cl\u2082 \u2192 2HCl)",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 57?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 58?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 59?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 60? (e.g. simulated eqn 60: H\u2082 + Cl\u2082 \u2192 2HCl)",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 61?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 62?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 63?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 64? (e.g. simulated eqn 64: H\u2082 + Cl\u2082 \u2192 2HCl)",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 65?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 66?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 67?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 68? (e.g. simulated eqn 68: H\u2082 + Cl\u2082 \u2192 2HCl)",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 69?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 70?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 71?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 72? (e.g. simulated eqn 72: H\u2082 + Cl\u2082 \u2192 2HCl)",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 73?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 74?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 75?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 76? (e.g. simulated eqn 76: H\u2082 + Cl\u2082 \u2192 2HCl)",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 77?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 78?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What type of reaction is represented by Reaction 79?",
+    "options": [
+      "Combination",
+      "Decomposition",
+      "Displacement",
+      "Double Displacement"
+    ],
+    "answer": 3
   }
     ]
