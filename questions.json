@@ -1,0 +1,822 @@
+[
+  {
+    "question": "Q1: Which of the following is a displacement reaction?",
+    "options": [
+      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083",
+      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "CaCO\u2083 \u2192 CaO + CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q2: What is the color of ferrous sulphate crystals?",
+    "options": [
+      "Blue",
+      "Green",
+      "White",
+      "Pink"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q3: Which of the following is a decomposition reaction?",
+    "options": [
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+      "2AgCl \u2192 2Ag + Cl\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "C + O\u2082 \u2192 CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q4: Which gas is released when sodium reacts with water?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q5: What change is observed when silver chloride is kept in sunlight?",
+    "options": [
+      "Turns green",
+      "Turns black",
+      "Turns blue",
+      "Turns red"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q6: Which type of reaction is: CaO + H\u2082O \u2192 Ca(OH)\u2082?",
+    "options": [
+      "Decomposition",
+      "Combination",
+      "Displacement",
+      "Double displacement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q7: Which of the following prevents iron from rusting?",
+    "options": [
+      "Hydration",
+      "Galvanization",
+      "Oxidation",
+      "Heating"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q8: Which of the following reactions is an example of a redox reaction?",
+    "options": [
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
+      "CaCO\u2083 \u2192 CaO + CO\u2082"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Q9: What is observed when iron nails are dipped in copper sulphate solution?",
+    "options": [
+      "Solution becomes colorless",
+      "A brown coating forms on nails",
+      "Bubbles form on nails",
+      "Nails dissolve completely"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q10: What is the chemical formula of quick lime?",
+    "options": [
+      "CaCO\u2083",
+      "Ca(OH)\u2082",
+      "CaO",
+      "CaCl\u2082"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Q11: Which of the following is a displacement reaction?",
+    "options": [
+      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083",
+      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "CaCO\u2083 \u2192 CaO + CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q12: What is the color of ferrous sulphate crystals?",
+    "options": [
+      "Blue",
+      "Green",
+      "White",
+      "Pink"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q13: Which of the following is a decomposition reaction?",
+    "options": [
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+      "2AgCl \u2192 2Ag + Cl\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "C + O\u2082 \u2192 CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q14: Which gas is released when sodium reacts with water?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q15: What change is observed when silver chloride is kept in sunlight?",
+    "options": [
+      "Turns green",
+      "Turns black",
+      "Turns blue",
+      "Turns red"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q16: Which type of reaction is: CaO + H\u2082O \u2192 Ca(OH)\u2082?",
+    "options": [
+      "Decomposition",
+      "Combination",
+      "Displacement",
+      "Double displacement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q17: Which of the following prevents iron from rusting?",
+    "options": [
+      "Hydration",
+      "Galvanization",
+      "Oxidation",
+      "Heating"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q18: Which of the following reactions is an example of a redox reaction?",
+    "options": [
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
+      "CaCO\u2083 \u2192 CaO + CO\u2082"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Q19: What is observed when iron nails are dipped in copper sulphate solution?",
+    "options": [
+      "Solution becomes colorless",
+      "A brown coating forms on nails",
+      "Bubbles form on nails",
+      "Nails dissolve completely"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q20: What is the chemical formula of quick lime?",
+    "options": [
+      "CaCO\u2083",
+      "Ca(OH)\u2082",
+      "CaO",
+      "CaCl\u2082"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Q21: Which of the following is a displacement reaction?",
+    "options": [
+      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083",
+      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "CaCO\u2083 \u2192 CaO + CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q22: What is the color of ferrous sulphate crystals?",
+    "options": [
+      "Blue",
+      "Green",
+      "White",
+      "Pink"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q23: Which of the following is a decomposition reaction?",
+    "options": [
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+      "2AgCl \u2192 2Ag + Cl\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "C + O\u2082 \u2192 CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q24: Which gas is released when sodium reacts with water?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q25: What change is observed when silver chloride is kept in sunlight?",
+    "options": [
+      "Turns green",
+      "Turns black",
+      "Turns blue",
+      "Turns red"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q26: Which type of reaction is: CaO + H\u2082O \u2192 Ca(OH)\u2082?",
+    "options": [
+      "Decomposition",
+      "Combination",
+      "Displacement",
+      "Double displacement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q27: Which of the following prevents iron from rusting?",
+    "options": [
+      "Hydration",
+      "Galvanization",
+      "Oxidation",
+      "Heating"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q28: Which of the following reactions is an example of a redox reaction?",
+    "options": [
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
+      "CaCO\u2083 \u2192 CaO + CO\u2082"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Q29: What is observed when iron nails are dipped in copper sulphate solution?",
+    "options": [
+      "Solution becomes colorless",
+      "A brown coating forms on nails",
+      "Bubbles form on nails",
+      "Nails dissolve completely"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q30: What is the chemical formula of quick lime?",
+    "options": [
+      "CaCO\u2083",
+      "Ca(OH)\u2082",
+      "CaO",
+      "CaCl\u2082"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Q31: Which of the following is a displacement reaction?",
+    "options": [
+      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083",
+      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "CaCO\u2083 \u2192 CaO + CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q32: What is the color of ferrous sulphate crystals?",
+    "options": [
+      "Blue",
+      "Green",
+      "White",
+      "Pink"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q33: Which of the following is a decomposition reaction?",
+    "options": [
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+      "2AgCl \u2192 2Ag + Cl\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "C + O\u2082 \u2192 CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q34: Which gas is released when sodium reacts with water?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q35: What change is observed when silver chloride is kept in sunlight?",
+    "options": [
+      "Turns green",
+      "Turns black",
+      "Turns blue",
+      "Turns red"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q36: Which type of reaction is: CaO + H\u2082O \u2192 Ca(OH)\u2082?",
+    "options": [
+      "Decomposition",
+      "Combination",
+      "Displacement",
+      "Double displacement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q37: Which of the following prevents iron from rusting?",
+    "options": [
+      "Hydration",
+      "Galvanization",
+      "Oxidation",
+      "Heating"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q38: Which of the following reactions is an example of a redox reaction?",
+    "options": [
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
+      "CaCO\u2083 \u2192 CaO + CO\u2082"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Q39: What is observed when iron nails are dipped in copper sulphate solution?",
+    "options": [
+      "Solution becomes colorless",
+      "A brown coating forms on nails",
+      "Bubbles form on nails",
+      "Nails dissolve completely"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q40: What is the chemical formula of quick lime?",
+    "options": [
+      "CaCO\u2083",
+      "Ca(OH)\u2082",
+      "CaO",
+      "CaCl\u2082"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Q41: Which of the following is a displacement reaction?",
+    "options": [
+      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083",
+      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "CaCO\u2083 \u2192 CaO + CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q42: What is the color of ferrous sulphate crystals?",
+    "options": [
+      "Blue",
+      "Green",
+      "White",
+      "Pink"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q43: Which of the following is a decomposition reaction?",
+    "options": [
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+      "2AgCl \u2192 2Ag + Cl\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "C + O\u2082 \u2192 CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q44: Which gas is released when sodium reacts with water?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q45: What change is observed when silver chloride is kept in sunlight?",
+    "options": [
+      "Turns green",
+      "Turns black",
+      "Turns blue",
+      "Turns red"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q46: Which type of reaction is: CaO + H\u2082O \u2192 Ca(OH)\u2082?",
+    "options": [
+      "Decomposition",
+      "Combination",
+      "Displacement",
+      "Double displacement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q47: Which of the following prevents iron from rusting?",
+    "options": [
+      "Hydration",
+      "Galvanization",
+      "Oxidation",
+      "Heating"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q48: Which of the following reactions is an example of a redox reaction?",
+    "options": [
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
+      "CaCO\u2083 \u2192 CaO + CO\u2082"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Q49: What is observed when iron nails are dipped in copper sulphate solution?",
+    "options": [
+      "Solution becomes colorless",
+      "A brown coating forms on nails",
+      "Bubbles form on nails",
+      "Nails dissolve completely"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q50: What is the chemical formula of quick lime?",
+    "options": [
+      "CaCO\u2083",
+      "Ca(OH)\u2082",
+      "CaO",
+      "CaCl\u2082"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Q51: Which of the following is a displacement reaction?",
+    "options": [
+      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083",
+      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "CaCO\u2083 \u2192 CaO + CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q52: What is the color of ferrous sulphate crystals?",
+    "options": [
+      "Blue",
+      "Green",
+      "White",
+      "Pink"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q53: Which of the following is a decomposition reaction?",
+    "options": [
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+      "2AgCl \u2192 2Ag + Cl\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "C + O\u2082 \u2192 CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q54: Which gas is released when sodium reacts with water?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q55: What change is observed when silver chloride is kept in sunlight?",
+    "options": [
+      "Turns green",
+      "Turns black",
+      "Turns blue",
+      "Turns red"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q56: Which type of reaction is: CaO + H\u2082O \u2192 Ca(OH)\u2082?",
+    "options": [
+      "Decomposition",
+      "Combination",
+      "Displacement",
+      "Double displacement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q57: Which of the following prevents iron from rusting?",
+    "options": [
+      "Hydration",
+      "Galvanization",
+      "Oxidation",
+      "Heating"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q58: Which of the following reactions is an example of a redox reaction?",
+    "options": [
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
+      "CaCO\u2083 \u2192 CaO + CO\u2082"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Q59: What is observed when iron nails are dipped in copper sulphate solution?",
+    "options": [
+      "Solution becomes colorless",
+      "A brown coating forms on nails",
+      "Bubbles form on nails",
+      "Nails dissolve completely"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q60: What is the chemical formula of quick lime?",
+    "options": [
+      "CaCO\u2083",
+      "Ca(OH)\u2082",
+      "CaO",
+      "CaCl\u2082"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Q61: Which of the following is a displacement reaction?",
+    "options": [
+      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083",
+      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "CaCO\u2083 \u2192 CaO + CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q62: What is the color of ferrous sulphate crystals?",
+    "options": [
+      "Blue",
+      "Green",
+      "White",
+      "Pink"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q63: Which of the following is a decomposition reaction?",
+    "options": [
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+      "2AgCl \u2192 2Ag + Cl\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "C + O\u2082 \u2192 CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q64: Which gas is released when sodium reacts with water?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q65: What change is observed when silver chloride is kept in sunlight?",
+    "options": [
+      "Turns green",
+      "Turns black",
+      "Turns blue",
+      "Turns red"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q66: Which type of reaction is: CaO + H\u2082O \u2192 Ca(OH)\u2082?",
+    "options": [
+      "Decomposition",
+      "Combination",
+      "Displacement",
+      "Double displacement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q67: Which of the following prevents iron from rusting?",
+    "options": [
+      "Hydration",
+      "Galvanization",
+      "Oxidation",
+      "Heating"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q68: Which of the following reactions is an example of a redox reaction?",
+    "options": [
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
+      "CaCO\u2083 \u2192 CaO + CO\u2082"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Q69: What is observed when iron nails are dipped in copper sulphate solution?",
+    "options": [
+      "Solution becomes colorless",
+      "A brown coating forms on nails",
+      "Bubbles form on nails",
+      "Nails dissolve completely"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q70: What is the chemical formula of quick lime?",
+    "options": [
+      "CaCO\u2083",
+      "Ca(OH)\u2082",
+      "CaO",
+      "CaCl\u2082"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Q71: Which of the following is a displacement reaction?",
+    "options": [
+      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083",
+      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "CaCO\u2083 \u2192 CaO + CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q72: What is the color of ferrous sulphate crystals?",
+    "options": [
+      "Blue",
+      "Green",
+      "White",
+      "Pink"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q73: Which of the following is a decomposition reaction?",
+    "options": [
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+      "2AgCl \u2192 2Ag + Cl\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "C + O\u2082 \u2192 CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q74: Which gas is released when sodium reacts with water?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q75: What change is observed when silver chloride is kept in sunlight?",
+    "options": [
+      "Turns green",
+      "Turns black",
+      "Turns blue",
+      "Turns red"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q76: Which type of reaction is: CaO + H\u2082O \u2192 Ca(OH)\u2082?",
+    "options": [
+      "Decomposition",
+      "Combination",
+      "Displacement",
+      "Double displacement"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q77: Which of the following prevents iron from rusting?",
+    "options": [
+      "Hydration",
+      "Galvanization",
+      "Oxidation",
+      "Heating"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q78: Which of the following reactions is an example of a redox reaction?",
+    "options": [
+      "Zn + CuSO\u2084 \u2192 ZnSO\u2084 + Cu",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "BaCl\u2082 + Na\u2082SO\u2084 \u2192 BaSO\u2084 + NaCl",
+      "CaCO\u2083 \u2192 CaO + CO\u2082"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Q79: What is observed when iron nails are dipped in copper sulphate solution?",
+    "options": [
+      "Solution becomes colorless",
+      "A brown coating forms on nails",
+      "Bubbles form on nails",
+      "Nails dissolve completely"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q80: What is the chemical formula of quick lime?",
+    "options": [
+      "CaCO\u2083",
+      "Ca(OH)\u2082",
+      "CaO",
+      "CaCl\u2082"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Q81: Which of the following is a displacement reaction?",
+    "options": [
+      "NaCl + AgNO\u2083 \u2192 AgCl + NaNO\u2083",
+      "Zn + HCl \u2192 ZnCl\u2082 + H\u2082",
+      "NaOH + HCl \u2192 NaCl + H\u2082O",
+      "CaCO\u2083 \u2192 CaO + CO\u2082"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Q82: What is the color of ferrous sulphate crystals?",
+    "options": [
+      "Blue",
+      "Green",
+      "White",
+      "Pink"
+    ],
+    "answer": 1
+  }
+]
