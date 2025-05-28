@@ -1,104 +1,125 @@
 import json
-import random
+from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 from telegram import Update, ReplyKeyboardMarkup
-from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler
+import logging
 
-# Load questions from the JSON file
-with open("questions.json", "r") as f:
+# Load questions
+with open("questions.json") as f:
     QUESTIONS = json.load(f)
 
-USER_DATA = {}
-QUESTION, QUIZ = range(2)
+# State: user_id -> progress
+USER_STATE = {}
 
-# Replace with your actual bot token here
-TOKEN = "7964523879:AAGHnf27A66SYF5oNrBH-37mSijksR60g1s"
+# Setup logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
-async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = update.effective_user.id
-    random.shuffle(QUESTIONS)
-    USER_DATA[user_id] = {
-        "questions": QUESTIONS[:100],
-        "index": 0,
-        "correct": 0,
-        "incorrect": 0
-    }
-    await update.message.reply_text("Welcome to the CBSE Class 10 Quiz Bot!\nLet's begin the quiz.")
-    return await ask_question(update, context)
+def start(update: Update, context: CallbackContext):
+    user_id = update.message.chat_id
+    USER_STATE[user_id] = {"index": 0, "correct": 0, "incorrect": 0, "asked": set()}
+    send_question(update, context)
 
-async def ask_question(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = update.effective_user.id
-    data = USER_DATA[user_id]
-    if data["index"] >= len(data["questions"]):
-        return await show_result(update, context)
+def send_question(update: Update, context: CallbackContext):
+    user_id = update.message.chat_id
+    state = USER_STATE[user_id]
+    index = state["index"]
 
-    q = data["questions"][data["index"]]
-    options = q["options"]
-    keyboard = [[opt] for opt in options]
-    reply_markup = ReplyKeyboardMarkup(keyboard, one_time_keyboard=True)
+    if index >= len(QUESTIONS):
+        update.message.reply_text("You've completed all questions! Use /result to see your score.")
+        return
 
-    await update.message.reply_text(f"Q{data['index']+1}: {q['question']}", reply_markup=reply_markup)
-    return QUIZ
+    while index in state["asked"]:
+        index += 1
 
-async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = update.effective_user.id
-    data = USER_DATA[user_id]
-    q = data["questions"][data["index"]]
-    user_answer = update.message.text
-    correct_option = q["options"][q["answer"]]
+    if index >= len(QUESTIONS):
+        update.message.reply_text("No more questions!")
+        return
 
-    if user_answer == correct_option:
-        await update.message.reply_text("Nice, you can do it!")
-        data["correct"] += 1
+    q = QUESTIONS[index]
+    state["index"] = index
+    state["asked"].add(index)
+
+    reply_markup = ReplyKeyboardMarkup([q["options"]], one_time_keyboard=True)
+    update.message.reply_text(f"Q{index+1}: {q['question']}", reply_markup=reply_markup)
+
+def handle_answer(update: Update, context: CallbackContext):
+    user_id = update.message.chat_id
+    state = USER_STATE.get(user_id)
+
+    if not state:
+        update.message.reply_text("Send /start to begin the quiz.")
+        return
+
+    index = state["index"]
+    q = QUESTIONS[index]
+    answer = update.message.text.strip()
+
+    if answer == q["answer"]:
+        state["correct"] += 1
+        update.message.reply_text("Nice! Keep it up 💯")
     else:
-        await update.message.reply_text("Your choice is incorrect.")
-        data["incorrect"] += 1
+        state["incorrect"] += 1
+        update.message.reply_text(f"Incorrect 😕 why did you select '{answer}'?\nCorrect answer: {q['answer']}")
 
-    data["index"] += 1
-    return await ask_question(update, context)
+    # Move to next question
+    state["index"] += 1
+    send_question(update, context)
 
-async def show_result(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    user_id = update.effective_user.id
-    data = USER_DATA[user_id]
-    correct = data["correct"]
-    incorrect = data["incorrect"]
-    total = correct + incorrect
+def result(update: Update, context: CallbackContext):
+    user_id = update.message.chat_id
+    state = USER_STATE.get(user_id)
 
-    result = f"✅ Quiz Completed!\nCorrect: {correct}\nIncorrect: {incorrect}\nScore: {correct}/{total}"
+    if not state:
+        update.message.reply_text("No data found. Start with /start.")
+        return
+
+    correct = state["correct"]
+    incorrect = state["incorrect"]
+    update.message.reply_text(f"Your result:\n✅ Correct: {correct}\n❌ Incorrect: {incorrect}")
+
     punishment = ""
-
-    if correct < 20:
+    if 25 <= incorrect <= 30:
         punishment = (
-            "\n\n😬 Score < 20:\n"
-            "- 50 pushups (Girls: Solve 100 math sums)\n"
-            "- 200 squats (Girls: Upload 5 no-filter photos)"
+            "🏋️ Do 15 push-ups and 100 squats\n"
+            "🧠 Solve 30 extra maths problems today!"
         )
-    elif correct < 40:
+    elif 31 <= incorrect <= 40:
         punishment = (
-            "\n\n😅 Score < 40:\n"
-            "- 20 pushups (Girls: Upload 1 no-filter photo)\n"
-            "- 50 squats (Girls: Solve 30 math sums)"
+            "🏋️ Do 50 push-ups and 200 squats\n"
+            "🧠 Solve 50 extra maths problems today!"
         )
 
-    await update.message.reply_text(result + punishment)
-    return ConversationHandler.END
+    if punishment:
+        update.message.reply_text(f"⚠️ Based on your score, here’s your challenge:\n{punishment}")
+    else:
+        update.message.reply_text("Great effort! No challenge this time 🎉")
 
-async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text("Quiz cancelled.")
-    return ConversationHandler.END
+def review(update: Update, context: CallbackContext):
+    update.message.reply_text("Please write your review. I’ll send it to my creator!")
+    context.user_data["awaiting_review"] = True
+
+def handle_message(update: Update, context: CallbackContext):
+    if context.user_data.get("awaiting_review"):
+        context.user_data["awaiting_review"] = False
+        user_review = update.message.text
+        # Simulate sending to your Telegram handle
+        logger.info(f"Forwarding review to @Brave_Soull: {user_review}")
+        update.message.reply_text("Thanks for your feedback!")
+    else:
+        handle_answer(update, context)
 
 def main():
-    app = Application.builder().token(TOKEN).build()
+    TOKEN = "7964523879:AAGHnf27A66SYF5oNrBH-37mSijksR60g1s"  # Replace with your bot token
+    updater = Updater(TOKEN, use_context=True)
+    dp = updater.dispatcher
 
-    conv_handler = ConversationHandler(
-        entry_points=[CommandHandler("start", start)],
-        states={
-            QUIZ: [MessageHandler(filters.TEXT & ~filters.COMMAND, handle_answer)],
-        },
-        fallbacks=[CommandHandler("cancel", cancel)],
-    )
+    dp.add_handler(CommandHandler("start", start))
+    dp.add_handler(CommandHandler("result", result))
+    dp.add_handler(CommandHandler("review", review))
+    dp.add_handler(MessageHandler(Filters.text & ~Filters.command, handle_message))
 
-    app.add_handler(conv_handler)
-    app.run_polling()
+    updater.start_polling()
+    updater.idle()
 
 if __name__ == "__main__":
     main()
