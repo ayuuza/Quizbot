@@ -1,3 +1,4 @@
+
 import json
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 from telegram import Update, ReplyKeyboardMarkup
@@ -50,14 +51,13 @@ def handle_answer(update: Update, context: CallbackContext):
     correct_answer = q["answer"]
 
     if user_answer == correct_answer:
-    if user_answer == correct_answer:
         state["correct"] += 1
         update.message.reply_text("Nice! Keep it up 💯")
     else:
         state["incorrect"] += 1
         update.message.reply_text(
             f"Incorrect 😕 why did you select '{user_answer}'?\nCorrect answer: {correct_answer}"
-    )
+        )
 
     state["index"] += 1
     send_question(update, context)
@@ -72,31 +72,24 @@ def result(update: Update, context: CallbackContext):
 
     correct = state["correct"]
     incorrect = state["incorrect"]
-    update.message.reply_text(f"Your result:
-✅ Correct: {correct}
-❌ Incorrect: {incorrect}")
+    update.message.reply_text(f"Your result:\n✅ Correct: {correct}\n❌ Incorrect: {incorrect}")
 
     punishment = ""
     if 25 <= incorrect <= 30:
         punishment = (
-            "🏋️ Do 15 push-ups and 100 squats
-"
-            "📷 Girls: Upload 1 photo on Instagram without makeup and filter
-"
+            "🏋️ Do 15 push-ups and 100 squats\n"
+            "📷 Girls: Upload 1 photo on Instagram without makeup and filter\n"
             "🧠 Girls: Solve 30 maths sums in 1 day"
         )
     elif 31 <= incorrect <= 40:
         punishment = (
-            "🏋️ Do 50 push-ups and 200 squats
-"
-            "📷 Girls: Upload 5 photos on Instagram without makeup and filter
-"
+            "🏋️ Do 50 push-ups and 200 squats\n"
+            "📷 Girls: Upload 5 photos on Instagram without makeup and filter\n"
             "🧠 Girls: Solve 50 maths sums in 1 day"
         )
 
     if punishment:
-        update.message.reply_text(f"⚠️ Based on your score, here’s your challenge:
-{punishment}")
+        update.message.reply_text(f"⚠️ Based on your score, here’s your challenge:\n{punishment}")
     else:
         update.message.reply_text("Great effort! No challenge this time 🎉")
 
@@ -129,4 +122,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-        
