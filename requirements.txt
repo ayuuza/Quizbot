@@ -1,1 +1,3 @@
 python-telegram-bot==13.15
+certifi>=2023.7.22
+urllib3>=1.26.15
