@@ -3,12 +3,15 @@ import random
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler
 
+# Load questions from the JSON file
 with open("questions.json", "r") as f:
     QUESTIONS = json.load(f)
 
 USER_DATA = {}
-
 QUESTION, QUIZ = range(2)
+
+# Replace with your actual bot token here
+TOKEN = "7964523879:AAGHnf27A66SYF5oNrBH-37mSijksR60g1s"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.effective_user.id
@@ -19,7 +22,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "correct": 0,
         "incorrect": 0
     }
-    await update.message.reply_text("Welcome to the CBSE Class 10 Quiz Bot!\nLet's start.")
+    await update.message.reply_text("Welcome to the CBSE Class 10 Quiz Bot!\nLet's begin the quiz.")
     return await ask_question(update, context)
 
 async def ask_question(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -27,13 +30,13 @@ async def ask_question(update: Update, context: ContextTypes.DEFAULT_TYPE):
     data = USER_DATA[user_id]
     if data["index"] >= len(data["questions"]):
         return await show_result(update, context)
-    
+
     q = data["questions"][data["index"]]
     options = q["options"]
     keyboard = [[opt] for opt in options]
     reply_markup = ReplyKeyboardMarkup(keyboard, one_time_keyboard=True)
-    
-    await update.message.reply_text(f"Q{data['index']+1}. {q['question']}", reply_markup=reply_markup)
+
+    await update.message.reply_text(f"Q{data['index']+1}: {q['question']}", reply_markup=reply_markup)
     return QUIZ
 
 async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -60,19 +63,19 @@ async def show_result(update: Update, context: ContextTypes.DEFAULT_TYPE):
     incorrect = data["incorrect"]
     total = correct + incorrect
 
-    result = f"Quiz Completed!\nCorrect: {correct}\nIncorrect: {incorrect}\nScore: {correct}/{total}"
-
+    result = f"✅ Quiz Completed!\nCorrect: {correct}\nIncorrect: {incorrect}\nScore: {correct}/{total}"
     punishment = ""
+
     if correct < 20:
         punishment = (
-            "\n\n😬 You scored less than 20.\n"
-            "Punishment:\n- 50 pushups (Girls: Solve 100 math sums)\n"
-            "- 200 squats (Girls: Upload 5 no-filter, no-makeup photos)"
+            "\n\n😬 Score < 20:\n"
+            "- 50 pushups (Girls: Solve 100 math sums)\n"
+            "- 200 squats (Girls: Upload 5 no-filter photos)"
         )
     elif correct < 40:
         punishment = (
-            "\n\n😅 You scored less than 40.\n"
-            "Punishment:\n- 20 pushups (Girls: Upload 1 photo without filter/makeup)\n"
+            "\n\n😅 Score < 40:\n"
+            "- 20 pushups (Girls: Upload 1 no-filter photo)\n"
             "- 50 squats (Girls: Solve 30 math sums)"
         )
 
@@ -84,11 +87,7 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
     return ConversationHandler.END
 
 def main():
-    import os
-    from telegram.ext import ApplicationBuilder
-
-    TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-    app = ApplicationBuilder().token(TOKEN).build()
+    app = Application.builder().token(TOKEN).build()
 
     conv_handler = ConversationHandler(
         entry_points=[CommandHandler("start", start)],
