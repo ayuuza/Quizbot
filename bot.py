@@ -29,7 +29,7 @@ def send_question(update: Update, context: CallbackContext):
         return
 
     q = QUESTIONS[index]
-    reply_markup = ReplyKeyboardMarkup([q["options"]], one_time_keyboard=True)
+    reply_markup = ReplyKeyboardMarkup([q["options"]], one_time_keyboard=True, resize_keyboard=True)
     update.message.reply_text(f"Q{index+1}: {q['question']}", reply_markup=reply_markup)
 
 def handle_answer(update: Update, context: CallbackContext):
@@ -127,4 +127,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
+        
